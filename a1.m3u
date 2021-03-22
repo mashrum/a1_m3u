@@ -1,54 +1,88 @@
 #EXTM3U url-tvg=http://help.a1.by/_files/TelecomTV/TelecomTVepg/xmltv.zip
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/acff702ad36097348918_250x250c.jpg" group-title="Местные", Беларусь 1 HD	
+#EXTGRP:Местные
 udp://@233.81.116.1:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/788c83c19d70f1864155_250x250c.png" group-title="Местные", Беларусь 2 HD	
+#EXTGRP:Местные
 udp://@233.81.116.2:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/61fbba71524f49fb956c_250x250c.png" group-title="Местные", Беларусь 3 HD	
+#EXTGRP:Местные
 udp://@233.81.116.7:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c74bcd743a364acddf76_250x250c.png" group-title="Местные", Беларусь 5 HD	
+#EXTGRP:Местные
 udp://@233.81.116.9:1234
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c7d33ac6873754fcaba3_250x250c.png" group-title="Местные", ОНТ HD	
+#EXTGRP:Местные
 udp://@233.81.116.3:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8b72ca393c273eea150a_250x250c.png" group-title="Местные", СТВ HD	
+#EXTGRP:Местные
 udp://@233.81.116.4:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/661c44fb11a4965ea6f3_250x250c.png" group-title="Местные", НТВ-Беларусь HD	
+#EXTGRP:Местные
 udp://@233.81.116.5:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/0807bcc1edc0d6a8e097_250x250c.png" group-title="Местные", РТР-Беларусь HD	
+#EXTGRP:Местные
 udp://@233.81.116.6:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/df656ec153fd37707b55_250x250c.png" group-title="Местные", МИР HD	
+#EXTGRP:Местные
 udp://@233.81.116.8:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/68a223ff7a03d3e48e10_250x250c.png" group-title="Местные", МИР Премиум	
+#EXTGRP:Местные
 udp://@233.81.116.157:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/mir_24.jpg" group-title="Местные", МИР 24
-http://178.124.183.5/hls/CH_MIR24_HLS/variant.m3u8
+#EXTGRP:Местные
+http://mfe.svc.ott.zala.by/hls/CH_MIR24HD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Брест	
+#EXTGRP:Местные
 http://178.124.183.5/hls/CH_BELARUS4BR_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Гродно	
+#EXTGRP:Местные
 http://178.124.183.5/hls/CH_BELARUS4GR_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Гомель	
+#EXTGRP:Местные
 udp://@233.81.116.118:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/gomel_tv.png" group-title="Местные", 1-й городской (Гомель)	
+#EXTGRP:Местные
 udp://@233.81.116.136:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/2b184ddb1a9bacb2fb94_250x250c.png" group-title="Местные", 2-й городской (Гомель)	
+#EXTGRP:Местные
 udp://@233.81.116.90:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/bobruysk_360.jpg" group-title="Местные", Бобруйск 360	
+#EXTGRP:Местные
 udp://@233.81.116.145:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Витебск	
+#EXTGRP:Местные
 udp://@233.81.116.23:1234
 #EXTINF:-1 tvg-logo="" group-title="Местные", Витебск	
+#EXTGRP:Местные
 udp://@233.81.116.220:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Могилёв	
+#EXTGRP:Местные
 udp://@233.81.116.18:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/bb77637040abe24a5bdf_250x250c.jpg" group-title="Научно-популярные", Скиф HD	
+#EXTGRP:Местные
 udp://@233.81.116.101:1234
+#EXTGRP:Местные
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d9edb0a972cfafe4bbc8_250x250c.png" group-title="Местные", 8 канал HD	
+#EXTGRP:Местные
 udp://@233.81.116.59:1234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7Wf5F/BS.png" group-title="Местные", Белсат
+#EXTGRP:Местные
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/53a3212abfbb1520407a_250x250c.png" group-title="Местные", ВТВ HD	
+#EXTGRP:Местные
 udp://@233.81.116.76:1234
-#EXTINF:-1 tvg-logo="http://mininform.gov.by/upload/iblock/185/18582045a5346f43610713d64dc90825.jpg" group-title="Местные", Звязда	
+#EXTINF:-1 tvg-logo="http://mininform.gov.by/upload/iblock/185/18582045a5346f43610713d64dc90825.jpg" group-title="Местные", Вектор ТВ Новополоцк	
+#EXTGRP:Местные
 udp://@233.81.116.81:1234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kq9qPDJ/nireja.png" group-title="Местные", Нірэя
+#EXTGRP:Местные
+http://cdnhls.goodgame.ru/hls/165177.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1dHFdFf/variag.png" group-title="Местные", Варяг
+#EXTGRP:Местные
+http://87.252.229.252:8081/varag
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/32e4cb48cf462d6e52e4_250x250c.png" group-title="Новостные", Euronews	
 udp://@233.81.116.21:1234
@@ -85,6 +119,10 @@ udp://@233.81.116.33:1234
 udp://@233.81.116.30:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/bebbb9fb397e4ba5244d_250x250c.png" group-title="Кино", Sony Sci-Fi	
 udp://@233.81.116.38:1234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vc6rSW8/37-Sony-Channel.png" group-title="Кино", Sony Channel
+#EXTGRP:Кино
+http://mfe.svc.ott.zala.by/hls/VPRSUR2WN2_HLS/variant.m3u8?version=2
+
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/261bfed3d2ae47065515_250x250c.jpg" group-title="Кино", Amedia 1 HD	
 udp://@233.81.116.70:1234
 #EXTINF:-1 tvg-logo="https://cdn.ntvplus.ru/files/image/01/18/37/-channel!366.png" group-title="Кино", Amedia 2 HD	
@@ -97,8 +135,9 @@ udp://@233.81.116.171:1234
 udp://@233.81.116.86:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/91f56cc7fcf1c5e3d40c_250x250c.png" group-title="Кино", Иллюзион+	
 udp://@233.81.116.87:1234
-#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/sinema.png" group-title="Кино", Cinema	
-udp://@233.81.116.92:1234
+#EXTINF:-1 tvg-logo="http://i.ibb.co/rp3FgCz/17-Sinema.png",Cinema
+#EXTGRP:Кино
+http://mfe.svc.ott.zala.by/hls/CH_CINEMA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a1be9e19caedeaf02478_350x350c.png" group-title="Кино", Hollywood	
 udp://@233.81.116.124:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/muvi_tv.jpg" group-title="Кино", Муви ТВ	
@@ -109,16 +148,29 @@ udp://@233.81.116.158:1234
 udp://@233.81.116.172:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/tv-21_m.png" group-title="Кино", ТВ 21 M	
 udp://@233.81.116.177:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/419255039a05e72f1fcf_250x250c.png" group-title="Инфо-развлекательные", +TV	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/419255039a05e72f1fcf_250x250c.png" group-title="Кино", +TV	
 udp://@233.81.116.112:1234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g3XtPM6/trashtv.png" group-title="Кино", Trash
+#EXTGRP:Кино
+http://mfe.svc.ott.zala.by/hls/CH_TRASH_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y849Bbq/kinosat.png" group-title="Кино", Киносат
+#EXTGRP:Кино
+http://mfe.svc.ott.zala.by/hls/CH_KINOSAT_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/aed6b9979b3cdcf870f5_250x250c.png" group-title="Кино", Shot TV	
 udp://@233.81.116.186:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/dorama.png" group-title="Кино", Дорама (Zala)	
 http://178.124.183.5/hls/CH_DORAMA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/zee.png" group-title="Кино", Zee TV	
 udp://@233.81.116.66:1234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wsZLtz7/71-Indijsloe-kino.png" group-title="Кино", Индийское кино
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8?version=2
+
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/91f56cc7fcf1c5e3d40c_250x250c.png" group-title="Кино", Феникс плюс Кино	
 udp://@233.81.116.185:1234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2mM69H/42-Lubimoe-kino.png" group-title="Кино", Любимое кино
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_NASHEKINO_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/%D0%A0%D0%B5%D1%82%D1%80%D0%BE_512x512c.png" group-title="Кино", Ретро	
 udp://@233.81.116.52:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d3ae8c95fd80b8aa36b5_250x250c.jpg" group-title="Кино", Наше новое кино	
@@ -164,6 +216,9 @@ udp://@233.81.116.188:1234
 http://178.124.183.5/hls/9F67L3DGIF_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/detskiy.jpg" group-title="Детские", Уникум (Zala)	
 http://178.124.183.5/hls/CH_UNIKUM_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cDFHQ8y/21-CTC.png" group-title="Детские", СТС Kids
+#EXTGRP:Детские
+http://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/9eee83aa123ecd069b5b_250x250c.png" group-title="Музыка", VH1
 udp://@233.81.116.85:1234
