@@ -61,7 +61,7 @@ udp://@233.81.116.220:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Могилёв	
 #EXTGRP:Местные
 udp://@233.81.116.18:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/bb77637040abe24a5bdf_250x250c.jpg" group-title="Научно-популярные", Скиф HD	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/bb77637040abe24a5bdf_250x250c.jpg" group-title="Местные", Скиф HD	
 #EXTGRP:Местные
 udp://@233.81.116.101:1234
 #EXTGRP:Местные
@@ -74,7 +74,7 @@ http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/53a3212abfbb1520407a_250x250c.png" group-title="Местные", ВТВ HD	
 #EXTGRP:Местные
 udp://@233.81.116.76:1234
-#EXTINF:-1 tvg-logo="http://mininform.gov.by/upload/iblock/185/18582045a5346f43610713d64dc90825.jpg" group-title="Местные", Вектор ТВ Новополоцк	
+#EXTINF:-1 tvg-logo="http://mininform.gov.by/upload/iblock/185/18582045a5346f43610713d64dc90825.jpg" group-title="Местные", Звязда	
 #EXTGRP:Местные
 udp://@233.81.116.81:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kq9qPDJ/nireja.png" group-title="Местные", Нірэя
@@ -113,7 +113,7 @@ udp://@233.81.116.30:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/bebbb9fb397e4ba5244d_250x250c.png" group-title="Кино", Sony Sci-Fi	
 #EXTGRP:Кино
 udp://@233.81.116.38:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vc6rSW8/37-Sony-Channel.png" group-title="Кино", Sony Channel
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/68356fb9bb820c58a52e_250x250c.png" group-title="Кино", Sony Channel
 #EXTGRP:Кино
 http://mfe.svc.ott.zala.by/hls/VPRSUR2WN2_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/7eefa408058d9f884fce_250x250c.png" group-title="Кино", TV 1000 Action	
@@ -122,6 +122,9 @@ udp://@233.81.116.80:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/eb6bc249b167a8bd31a0_250x250c.png" group-title="Кино", TV 1000	
 #EXTGRP:Кино
 udp://@233.81.116.83:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/306c32f8b6dab1c70bd7_250x250c.png" group-title="Кино", Movie Classic	
+#EXTGRP:Кино
+udp://@233.81.116.41:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8b5587df4114a3be1ac6_250x250c.png" group-title="Кино", Настоящее страшное ТВ	
 #EXTGRP:Кино
 udp://@233.81.116.86:1234
@@ -209,7 +212,7 @@ udp://@233.81.116.182:1234
 udp://@233.81.116.161:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/95f5c2d4c39111e9756c_250x250c.png" group-title="Кино_2", Дом кино	
 #EXTGRP:Кино_2
-udp://@233.81.116.160:1234
+udp://@233.81.116.26:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b8d05265941096c566d7_146x146c.jpg" group-title="Кино_2", Дом Кино ПРЕМИУМ HD	
 #EXTGRP:Кино_2
 udp://@233.81.116.53:1234
@@ -295,8 +298,7 @@ udp://@233.81.116.165:1234
 udp://@233.81.116.10:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8363db290ca82ce0c607_250x250c.png" group-title="Научно-популярные", National Geographic	
 udp://@233.81.116.17:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/552598a82e5516b65a98_250x250c.png" group-title="Научно-популярные", Наука	
-udp://@233.81.116.26:1234
+
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b4c14557e6c11b291922_250x250c.png" group-title="Научно-популярные", History	
 udp://@233.81.116.40:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b5f80170d37808bf1d12_250x250c.png" group-title="Научно-популярные", Моя планета	
@@ -375,6 +377,10 @@ udp://@233.81.116.164:1234
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/504a629468255b4aec77_250x250c.png" group-title="Культура и мода", World Fashion HD	
 udp://@233.81.116.14:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/552598a82e5516b65a98_250x250c.png" group-title="Культура и мода", Fashion & Lifestyle HD	
+udp://@233.81.116.40:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/552598a82e5516b65a98_250x250c.png" group-title="Культура и мода", Fashion & Style 4k	
+udp://@233.81.116.157:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/3d0146cdd48ad8a0a27f_250x250c.png" group-title="Культура и мода", Театр	
 udp://@233.81.116.65:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ea28ab89f7d237d96f75_250x250c.png" group-title="Культура и мода", Светлое ТВ HD	
