@@ -146,7 +146,7 @@ udp://@233.81.116.214:1234
 #EXTGRP:Кино 1
 udp://@233.81.116.177:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3XtPM6/trashtv.png" group-title="Кино 1", Trash
-#EXTGRP:Кино
+#EXTGRP:Кино 1
 http://mfe.svc.ott.zala.by/hls/CH_TRASH_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y849Bbq/kinosat.png" group-title="Кино 1", Киносат
 #EXTGRP:Кино 1
