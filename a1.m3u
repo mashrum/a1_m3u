@@ -371,26 +371,26 @@ udp://@233.81.116.131:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/0e0202422c50dde4bb93_250x250c.png" group-title="Инфо-развлекательные", КВН ТВ	
 udp://@233.81.116.164:1234
 
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/504a629468255b4aec77_250x250c.png" group-title="Культура и мода", World Fashion HD	
-udp://@233.81.116.14:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/552598a82e5516b65a98_250x250c.png" group-title="Культура и мода", Fashion & Lifestyle HD	
-udp://@233.81.116.40:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/552598a82e5516b65a98_250x250c.png" group-title="Культура и мода", Fashion & Style 4k	
-udp://@233.81.116.157:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/3d0146cdd48ad8a0a27f_250x250c.png" group-title="Культура и мода", Театр	
 udp://@233.81.116.65:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ea28ab89f7d237d96f75_250x250c.png" group-title="Культура и мода", Светлое ТВ HD	
-udp://@233.81.116.69:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b4b81f6dc8ce033f5f90_250x250c.png" group-title="Культура и мода", Россия К	
 udp://@233.81.116.88:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d20d29b172e32ced0b5c_250x250c.png" group-title="Культура и мода", Luxury HD	
-udp://@233.81.116.151:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/499498b1926cbf2853af_250x250c.png" group-title="Культура и мода", Mezzo	
 udp://@233.81.116.89:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/152f7298240b5671ab85_250x250c.png" group-title="Культура и мода", Mezzo Live HD	
 udp://@233.81.116.169:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/565ac2d5ed9d8e7af8ea_250x250c.png" group-title="Культура и мода", Live Music Channel	
 udp://@233.81.116.144:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ea28ab89f7d237d96f75_250x250c.png" group-title="Культура и мода", Светлое ТВ HD	
+udp://@233.81.116.69:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d20d29b172e32ced0b5c_250x250c.png" group-title="Культура и мода", Luxury HD	
+udp://@233.81.116.151:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/504a629468255b4aec77_250x250c.png" group-title="Культура и мода", World Fashion HD	
+udp://@233.81.116.14:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cc8b34bdce16be9f6aba_250x250c.png" group-title="Культура и мода", Fashion & Lifestyle HD	
+udp://@233.81.116.40:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cc8b34bdce16be9f6aba_250x250c.png" group-title="Культура и мода", Fashion & Style 4k	
+udp://@233.81.116.157:1234
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c74bcd743a364acddf76_250x250c.png" group-title="Спорт", Беларусь 5 HD	
 udp://@233.81.116.9:1234
