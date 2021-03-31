@@ -250,15 +250,15 @@ udp://@233.81.116.187:1234
 udp://@233.81.116.188:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/da1ceb0bcf8b7718178d_250x250c.png" group-title="Детские", Рыжий	
 udp://@233.81.116.121:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d07c74ffdae7e2ac008c_250x250c.png" group-title="Детские", Советские Мультфильмы	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d07c74ffdae7e2ac008c_250x250c.jpg" group-title="Детские", Советские Мультфильмы	
 udp://@233.81.116.156:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4572abbe495007aab3ab_250x250c.png" group-title="Детские", Карусель	
 udp://@233.81.116.183:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d51801d794904dcc9862_250x250c.png" group-title="Детские", Смайлик	
 udp://@233.81.116.95:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ca7d8057be2838a614b7_250x250c.png" group-title="Детские", O! (тест)	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ca7d8057be2838a614b7_250x250c.jpg" group-title="Детские", O! (тест)	
 udp://@233.81.116.61:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ca7d8057be2838a614b7_250x250c.png" group-title="Детские", Сказки Зайки	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/0e3155923cb9ab7259c0_250x250c.png" group-title="Детские", Сказки Зайки	
 udp://@233.81.116.15:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/detskiy_mir_teleclub.png" group-title="Детские", Детский Мир
 http://178.124.183.5/hls/9F67L3DGIF_HLS/variant.m3u8
@@ -307,7 +307,7 @@ udp://@233.81.116.165:1234
 udp://@233.81.116.10:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8363db290ca82ce0c607_250x250c.png" group-title="Научно-популярные", National Geographic	
 udp://@233.81.116.17:1234
-#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/nat_geo_wild_0.png" group-title="Научно-популярные", Nat Geo Wild HD	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/06943fda064d65e23b36_250x250c.jpg" group-title="Научно-популярные", Nat Geo Wild HD	
 udp://@233.81.116.174:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/04b07bc55ae232c2e822_250x250c.jpg" group-title="Научно-популярные", Travel + Adventure HD	
 udp://@233.81.116.176:1234
