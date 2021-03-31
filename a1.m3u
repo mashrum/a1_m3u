@@ -40,7 +40,7 @@ http://178.124.183.5/hls/CH_BELARUS4GR_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Гомель	
 #EXTGRP:Местные
 udp://@233.81.116.118:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/2b184ddb1a9bacb2fb94_250x250c.png" group-title="Местные", 2-й городской (Гомель)	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/2b184ddb1a9bacb2fb94_250x250c.png" group-title="Местные", 2-ой городской канал	
 #EXTGRP:Местные
 udp://@233.81.116.90:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/bobruysk_360.jpg" group-title="Местные", Бобруйск 360	
@@ -49,7 +49,7 @@ udp://@233.81.116.145:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Витебск	
 #EXTGRP:Местные
 udp://@233.81.116.23:1234
-#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Могилёв	
+#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Могилев	
 #EXTGRP:Местные
 udp://@233.81.116.18:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/bb77637040abe24a5bdf_250x250c.jpg" group-title="Местные", Скиф HD	
@@ -68,7 +68,7 @@ udp://@233.81.116.76:1234
 #EXTINF:-1 tvg-logo="http://mininform.gov.by/upload/iblock/185/18582045a5346f43610713d64dc90825.jpg" group-title="Местные", Звязда	
 #EXTGRP:Местные
 udp://@233.81.116.81:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kq9qPDJ/nireja.png" group-title="Местные", Нірэя
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kq9qPDJ/nireja.png" group-title="Местные", Нирея
 #EXTGRP:Местные
 http://cdnhls.goodgame.ru/hls/165177.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1dHFdFf/variag.png" group-title="Местные", Варяг
@@ -142,7 +142,7 @@ udp://@233.81.116.172:1234
 #EXTINF:-1 tvg-logo="https://s7.vcdn.biz/static/f/1934862631/image.jpg/pt/r300x423x4" group-title="Кино 1", Paramount Channel	
 #EXTGRP:Кино 1
 udp://@233.81.116.214:1234
-#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/tv-21_m.png" group-title="Кино 1", ТВ 21 M	
+#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/tv-21_m.png" group-title="Кино 1", ТВ 21 М	
 #EXTGRP:Кино 1
 udp://@233.81.116.177:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g3XtPM6/trashtv.png" group-title="Кино 1", Trash
@@ -256,7 +256,7 @@ udp://@233.81.116.156:1234
 udp://@233.81.116.183:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d51801d794904dcc9862_250x250c.png" group-title="Детские", Смайлик	
 udp://@233.81.116.95:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ca7d8057be2838a614b7_250x250c.jpg" group-title="Детские", O! (тест)	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ca7d8057be2838a614b7_250x250c.jpg" group-title="Детские", О!
 udp://@233.81.116.61:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/0e3155923cb9ab7259c0_250x250c.png" group-title="Детские", Сказки Зайки	
 udp://@233.81.116.15:1234
@@ -343,7 +343,7 @@ udp://@233.81.116.150:1234
 udp://@233.81.116.154:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/e435fecc02eb3c934131_250x250c.png" group-title="Научно-популярные", Терра Инкогнита	
 udp://@233.81.116.178:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/35d3de6e45d1a758ea62_250x250c.png" group-title="Научно-популярные", Docu Box HD	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/35d3de6e45d1a758ea62_250x250c.png" group-title="Научно-популярные", Docubox HD	
 udp://@233.81.116.232:1234
 #EXTINF:-1 tvg-logo="https://cdn.ntvplus.ru/files/image/13/78/19/-channel!t1z.png" group-title="Научно-популярные", Совершенно секретно
 http://178.124.183.5/hls/CH_SOVERSHENNOSEKRETNO_HLS/variant.m3u8
@@ -389,12 +389,12 @@ udp://@233.81.116.151:1234
 udp://@233.81.116.14:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cc8b34bdce16be9f6aba_250x250c.png" group-title="Культура и мода", Fashion & Lifestyle HD	
 udp://@233.81.116.40:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cc8b34bdce16be9f6aba_250x250c.png" group-title="Культура и мода", Fashion & Style 4k	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cc8b34bdce16be9f6aba_250x250c.png" group-title="Культура и мода", Fashion 4K (тест)	
 udp://@233.81.116.157:1234
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c74bcd743a364acddf76_250x250c.png" group-title="Спорт", Беларусь 5 HD	
 udp://@233.81.116.9:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/496de865cf88683dec6b_250x250c.png" group-title="Спорт", Fast&Fun BOX РВ	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/496de865cf88683dec6b_250x250c.png" group-title="Спорт", Fast&funbox hd
 udp://@233.81.116.15:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4191c29b0a0e08c59c72_250x250c.png" group-title="Спорт", SD|REX	
 udp://@233.81.116.67:1234
@@ -423,7 +423,7 @@ udp://@233.81.116.153:1234
 udp://@233.81.116.20:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/990b8970290b6cc35da5_250x250c.png" group-title="По интересам", Усадьба	
 udp://@233.81.116.42:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/90ece65f1a3b07347e85_250x250c.png" group-title="По интересам", Бобёр (тест)	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/90ece65f1a3b07347e85_250x250c.png" group-title="По интересам", Бобёр
 udp://@233.81.116.42:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/217476d1092c4bb5b3bf_250x250c.png" group-title="По интересам", Союз	
 udp://@233.81.116.46:1234
@@ -460,5 +460,5 @@ udp://@233.81.116.179:1234
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ddec790bf0716d64f64f_250x250c.png" group-title="Ultra 4k", Extrim Sports Channel	
 udp://@233.81.116.153:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/552598a82e5516b65a98_250x250c.png" group-title="Ultra 4k", Fashion & Style 4k	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/552598a82e5516b65a98_250x250c.png" group-title="Ultra 4k", Fashion 4K (тест)	
 udp://@233.81.116.157:1234
