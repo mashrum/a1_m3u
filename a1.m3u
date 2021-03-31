@@ -423,7 +423,7 @@ udp://@233.81.116.153:1234
 udp://@233.81.116.20:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/990b8970290b6cc35da5_250x250c.png" group-title="По интересам", Усадьба	
 udp://@233.81.116.42:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/90ece65f1a3b07347e85_250x250c.png" group-title="По интересам", Бобёр
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/90ece65f1a3b07347e85_250x250c.jpg" group-title="По интересам", Бобёр
 udp://@233.81.116.42:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/217476d1092c4bb5b3bf_250x250c.png" group-title="По интересам", Союз	
 udp://@233.81.116.46:1234
@@ -437,6 +437,8 @@ udp://@233.81.116.36:1234
 udp://@233.81.116.50:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8817fc28ee480e7743f6_250x250c.png" group-title="По интересам", Джой Кук	
 udp://@233.81.116.35:1234
+#EXTINF:-1 tvg-logo="http://www.advertology.ru/images/content/aimages/2018/02/05/059570.jpg" group-title="По интересам", Телекафе	
+udp://@233.81.116.179:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f08bb063fdd7e03e1f14_250x250c.png" group-title="По интересам", Здоровое ТВ	
 udp://@233.81.116.51:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f443e2d7bd7ae0284623_250x250c.png" group-title="По интересам", Мужской	
@@ -455,8 +457,6 @@ udp://@233.81.116.163:1234
 udp://@233.81.116.44:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/afce95a73bdd6f97e62d_250x250c.png" group-title="По интересам", English Club TV	
 udp://@233.81.116.175:1234
-#EXTINF:-1 tvg-logo="http://www.advertology.ru/images/content/aimages/2018/02/05/059570.jpg" group-title="По интересам", Телекафе	
-udp://@233.81.116.179:1234
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ddec790bf0716d64f64f_250x250c.png" group-title="Ultra 4k", Extrim Sports Channel	
 udp://@233.81.116.153:1234
