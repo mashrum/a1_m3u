@@ -436,7 +436,7 @@ udp://@233.81.116.36:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/00c5e3fd31d447c17415_250x250c.png" group-title="По интересам", Кухня ТВ	
 udp://@233.81.116.50:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8817fc28ee480e7743f6_250x250c.png" group-title="По интересам", Джой Кук	
-udp://@233.81.116.35:1234
+udp://@233.81.116.146:1234
 #EXTINF:-1 tvg-logo="http://www.advertology.ru/images/content/aimages/2018/02/05/059570.jpg" group-title="По интересам", Телекафе	
 udp://@233.81.116.179:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f08bb063fdd7e03e1f14_250x250c.png" group-title="По интересам", Здоровое ТВ	
