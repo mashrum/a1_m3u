@@ -423,6 +423,8 @@ udp://@233.81.116.153:1234
 udp://@233.81.116.20:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/990b8970290b6cc35da5_250x250c.png" group-title="По интересам", Усадьба	
 udp://@233.81.116.42:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/90ece65f1a3b07347e85_250x250c.png" group-title="По интересам", Бобёр (тест)	
+udp://@233.81.116.42:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/217476d1092c4bb5b3bf_250x250c.png" group-title="По интересам", Союз	
 udp://@233.81.116.46:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d202cd5c269486c8f530_250x250c.png" group-title="По интересам", Драйв	
