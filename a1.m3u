@@ -77,10 +77,12 @@ http://87.252.229.252:8081/varag
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/32e4cb48cf462d6e52e4_250x250c.png" group-title="Новостные", Euronews	
 #EXTGRP:Новостные
-udp://@233.81.116.21:1234
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/74df1b1635e346f590f5_250x250c.png" group-title="Новостные", ББК	
 #EXTGRP:Новостные
 udp://@233.81.116.24:1234
+#EXTINF:-1 tvg-logo="https://habrastorage.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" group-title="Новостные", РБК	
+#EXTGRP:Новостные
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/bd37e02f59012a0a740d_250x250c.png" group-title="Новостные", RTVi	
 #EXTGRP:Новостные
 udp://@233.81.116.68:1234
@@ -183,13 +185,13 @@ udp://@233.81.116.173:1234
 udp://@233.81.116.181:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wsZLtz7/71-Indijsloe-kino.png" group-title="Кино 1", Индийское кино
 #EXTGRP:Кино 1
-https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8?version=2
+https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/zee.png" group-title="Кино 1", Zee TV	
 #EXTGRP:Кино 1
 udp://@233.81.116.66:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/77893c3f00bfa94df02a_250x250c.png" group-title="Кино 1", Timeless Dizi Channel (тест)	
 #EXTGRP:Кино 1
-udp://@233.81.116.181:1234
+udp://@233.81.116.96:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/dorama.png" group-title="Кино 1", Дорама
 #EXTGRP:Кино 1
 http://178.124.183.5/hls/CH_DORAMA_HLS/variant.m3u8
