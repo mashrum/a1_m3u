@@ -65,6 +65,9 @@ http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/53a3212abfbb1520407a_250x250c.png" group-title="Местные", ВТВ HD	
 #EXTGRP:Местные
 udp://@233.81.116.76:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Телеканал_витебск_лого.jpg/220px-Телеканал_витебск_лого.jpg" group-title="Местные", Витебск	
+#EXTGRP:Местные
+udp://@233.81.116.220:1234
 #EXTINF:-1 tvg-logo="http://mininform.gov.by/upload/iblock/185/18582045a5346f43610713d64dc90825.jpg" group-title="Местные", Звязда	
 #EXTGRP:Местные
 udp://@233.81.116.81:1234
@@ -126,7 +129,7 @@ udp://@233.81.116.83:1234
 udp://@233.81.116.41:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/306c32f8b6dab1c70bd7_250x250c.png" group-title="Кино 1", КиноМеню HD	
 #EXTGRP:Кино 1
-udp://@233.81.116.152:1234
+udp://@233.81.116.98:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/91f56cc7fcf1c5e3d40c_250x250c.png" group-title="Кино 1", Иллюзион+	
 #EXTGRP:Кино 1
 udp://@233.81.116.87:1234
@@ -144,7 +147,7 @@ udp://@233.81.116.158:1234
 udp://@233.81.116.172:1234
 #EXTINF:-1 tvg-logo="https://s7.vcdn.biz/static/f/1934862631/image.jpg/pt/r300x423x4" group-title="Кино 1", Paramount Channel	
 #EXTGRP:Кино 1
-udp://@233.81.116.214:1234
+udp://@233.81.116.86:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/tv-21_m.png" group-title="Кино 1", ТВ 21 М	
 #EXTGRP:Кино 1
 udp://@233.81.116.177:1234
@@ -202,7 +205,7 @@ http://178.124.183.5/hls/CH_DORAMA_HLS/variant.m3u8
 udp://@233.81.116.52:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/66401c69500ea3df2831_250x250c.png" group-title="Кино 2", Советское кино	
 #EXTGRP:Кино 2
-udp://@233.81.116.149:1234
+udp://@233.81.116.92:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/419255039a05e72f1fcf_250x250c.png" group-title="Кино 2", +TV	
 #EXTGRP:Кино 2
 udp://@233.81.116.112:1234
@@ -256,7 +259,7 @@ udp://@233.81.116.121:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d07c74ffdae7e2ac008c_250x250c.jpg" group-title="Детские", Советские Мультфильмы	
 udp://@233.81.116.156:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4572abbe495007aab3ab_250x250c.png" group-title="Детские", Карусель	
-udp://@233.81.116.183:1234
+udp://@233.81.116.60:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d51801d794904dcc9862_250x250c.png" group-title="Детские", Смайлик	
 udp://@233.81.116.95:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ca7d8057be2838a614b7_250x250c.jpg" group-title="Детские", О!
@@ -279,8 +282,6 @@ udp://@233.81.116.114:1234
 udp://@233.81.116.170:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/50fda05b3df05c44399b_250x250c.png" group-title="Музыка", MTV	
 udp://@233.81.116.94:1234
-#EXTINF:-1 tvg-logo="http://www.mtv.co.uk/sites/default/files/styles/image-w-160-h-100-scale-crop/public/mtv_uk/playlists/2019/05/08/club-mtv-basic-nav.jpg" group-title="Музыка", MTV Club	
-udp://@233.81.116.166:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/499498b1926cbf2853af_250x250c.png" group-title="Музыка", Mezzo	
 udp://@233.81.116.89:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/152f7298240b5671ab85_250x250c.png" group-title="Музыка", Mezzo Live HD	
@@ -304,7 +305,7 @@ udp://@233.81.116.117:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/fb09fb1231c5ca5c452e_250x250c.png" group-title="Музыка", Жара	
 udp://@233.81.116.120:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/13ba647da8fe3cc820b7_250x250c.jpg" group-title="Музыка", Первый музыкальный HD	
-udp://@233.81.116.165:1234
+udp://@233.81.116.109:1234
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8a514b64a517e02b7763_250x250c.png" group-title="Научно-популярные", Тайна	
 udp://@233.81.116.10:1234
@@ -439,7 +440,7 @@ udp://@233.81.116.36:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/00c5e3fd31d447c17415_250x250c.png" group-title="По интересам", Кухня ТВ	
 udp://@233.81.116.50:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8817fc28ee480e7743f6_250x250c.png" group-title="По интересам", Джой Кук	
-udp://@233.81.116.146:1234
+udp://@233.81.116.113:1234
 #EXTINF:-1 tvg-logo="http://www.advertology.ru/images/content/aimages/2018/02/05/059570.jpg" group-title="По интересам", Телекафе	
 udp://@233.81.116.179:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f08bb063fdd7e03e1f14_250x250c.png" group-title="По интересам", Здоровое ТВ	
