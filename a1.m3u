@@ -83,6 +83,7 @@ http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 udp://@233.81.116.24:1234
 #EXTINF:-1 tvg-logo="https://habrastorage.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" group-title="Новостные", РБК	
 #EXTGRP:Новостные
+https://e2-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/bd37e02f59012a0a740d_250x250c.png" group-title="Новостные", RTVi	
 #EXTGRP:Новостные
 udp://@233.81.116.68:1234
@@ -189,7 +190,7 @@ https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/zee.png" group-title="Кино 1", Zee TV	
 #EXTGRP:Кино 1
 udp://@233.81.116.66:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/77893c3f00bfa94df02a_250x250c.png" group-title="Кино 1", Timeless Dizi Channel (тест)	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/77893c3f00bfa94df02a_250x250c.png" group-title="Кино 1", Timeless Dizi Channel	
 #EXTGRP:Кино 1
 udp://@233.81.116.96:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/dorama.png" group-title="Кино 1", Дорама
