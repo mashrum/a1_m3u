@@ -128,7 +128,7 @@ udp://@233.81.116.98:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/91f56cc7fcf1c5e3d40c_250x250c.png" group-title="Кино 1", Иллюзион+	
 #EXTGRP:Кино 1
 udp://@233.81.116.87:1234
-#EXTINF:-1 tvg-logo="http://tv.ontivi.net/img/cinema.png" group-title="Кино 1", Синема
+#EXTINF:-1 tvg-logo="http://tv.ontivi.net/img/cinema.png" group-title="Кино 1", Синема (тест)
 #EXTGRP:Кино 1
 udp://@233.81.116.130:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a1be9e19caedeaf02478_250x250c.png" group-title="Кино 1", Hollywood	
@@ -229,7 +229,7 @@ udp://@233.81.116.123:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/94cb60bdfcff59de779b_250x250c.png" group-title="Кино 2", TV 1000 Русское кино	
 #EXTGRP:Кино 2
 udp://@233.81.116.84:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/94cb60bdfcff59de779b_250x250c.png" group-title="Кино 2", Star Family	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/94cb60bdfcff59de779b_250x250c.png" group-title="Кино 2", Star Family	HD (тест)
 #EXTGRP:Кино 2
 udp://@233.81.116.61:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/pravo_0.jpg" group-title="Кино 2", НТВ-Право
