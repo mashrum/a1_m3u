@@ -95,7 +95,7 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="Новостные", France 24
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="BloombergEurope.uk" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmJsb29tYmVyZy5hbmRyb2lkLnBsdXNfaWNvbl8xNTY1ODIzNTQ4XzA0Nw/icon.png" group-title="Новостные", Bloomberg Europe
+#EXTINF:-1 tvg-id="BloombergEurope.uk" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmJsb29tYmVyZy5hbmRyb2lkLnBsdXNfaWNvbl8xNTY1ODIzNTQ4XzA0Nw/icon.png?w=&fakeurl=1" group-title="Новостные", Bloomberg Europe
 http://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="Новостные", Sky News
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
