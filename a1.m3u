@@ -116,9 +116,9 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 #EXTINF:-1 tvg-id="TVGalicia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Испанские", TV Galicia
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Cheddar.us" tvg-logo="https://podcasts.podinstall.com/assets/img/rs/600/311e6ebcc65754b1d1fc5f06a7e0b57a56e03d2a-edd6bc9f.jpg" group-title="Испанские", Cheddar Business
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://podcasts.podinstall.com/assets/img/rs/600/311e6ebcc65754b1d1fc5f06a7e0b57a56e03d2a-edd6bc9f.jpg" group-title="Испанские", Cheddar Business
 http://live.chdrstatic.com/cheddar/index.m3u8
-#EXTINF:-1, tvg-id="CheddarNews.us" tvg-logo="https://play-lh.googleusercontent.com/mXoCR2LDPQhX_oNPJfwRYsyzjN8OmDBMljfGGtBBzfj9vkVY8Hg4vPf-N2JaiAvSoIzd" group-title="Испанские", Cheddar News
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://play-lh.googleusercontent.com/mXoCR2LDPQhX_oNPJfwRYsyzjN8OmDBMljfGGtBBzfj9vkVY8Hg4vPf-N2JaiAvSoIzd" group-title="Испанские", Cheddar News
 http://live.chdrstatic.com/cbn/primary/4.m3u8
 
 
@@ -143,7 +143,7 @@ udp://@233.81.116.68:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ec83f2f545af58055f78_250x250c.jpg" group-title="Кино 1", FOX HD	
 #EXTGRP:Кино 1
 udp://@233.81.116.63:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/bebbb9fb397e4ba5244d_250x250c.png" group-title="Кино 1", Sony Sci-Fi	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f7cc1aa9638a15ed0f50_250x250c.jpg" group-title="Кино 1", Sony Sci-Fi	
 #EXTGRP:Кино 1
 udp://@233.81.116.38:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/9716e6a674548f7a01f6_250x250c.jpg" group-title="Кино 1", .black	
