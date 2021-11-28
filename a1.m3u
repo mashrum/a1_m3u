@@ -89,30 +89,32 @@ udp://@233.81.116.24:1234
 #EXTGRP:Новостные
 https://e2-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 
-#EXTINF:-1 tvg-id="RTVE24.es" tvg-logo="https://img2.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Новостные", RTVE 24
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
-#EXTINF:-1 tvg-id="3/24.es" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="Новостные",3/24
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 #EXTINF:-1 tvg-id="France24.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="Новостные", France 24
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="BloombergEurope.uk" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmJsb29tYmVyZy5hbmRyb2lkLnBsdXNfaWNvbl8xNTY1ODIzNTQ4XzA0Nw/icon.png?w=&fakeurl=1" group-title="Новостные", Bloomberg Europe
 http://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="Новостные", Sky News
-http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.pinimg.com/280x280_RS/eb/3f/2a/eb3f2ab57d69e4538f6adc2b57f54443.jpg" group-title="Новостные", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
+#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://podcasts.podinstall.com/assets/img/rs/600/311e6ebcc65754b1d1fc5f06a7e0b57a56e03d2a-edd6bc9f.jpg" group-title="Новостные", Cheddar Business
+http://live.chdrstatic.com/cheddar/index.m3u8
+#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://play-lh.googleusercontent.com/mXoCR2LDPQhX_oNPJfwRYsyzjN8OmDBMljfGGtBBzfj9vkVY8Hg4vPf-N2JaiAvSoIzd" group-title="Новостные", Cheddar News
+http://live.chdrstatic.com/cbn/primary/4.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="Новостные", CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="RTVE24.es" tvg-logo="https://img2.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Новостные", RTVE 24
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
+#EXTINF:-1 tvg-id="3/24.es" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="Новостные",3/24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="Новостные", Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.uk" tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="Новостные",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2013/11/08/5ba28169-5bfb-48a6-927c-9b39fec9ffb9/thumbnail/1200x630/1831cd7f24c2a77487092b7956a32bed/cbsnews-stack_1280X960.jpg" group-title="Новостные", CBS News
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 ##EXTINF:-1 tvg-id="VOA.us" tvg-logo="https://freebeacon.com/wp-content/uploads/2013/09/VOA.jpg" group-title="Новостные", Voice of America
 #https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="http://singteltv.com.sg/_channels/pic_ch211.jpg" group-title="Новостные", CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://podcasts.podinstall.com/assets/img/rs/600/311e6ebcc65754b1d1fc5f06a7e0b57a56e03d2a-edd6bc9f.jpg" group-title="Новостные", Cheddar Business
-http://live.chdrstatic.com/cheddar/index.m3u8
-#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://play-lh.googleusercontent.com/mXoCR2LDPQhX_oNPJfwRYsyzjN8OmDBMljfGGtBBzfj9vkVY8Hg4vPf-N2JaiAvSoIzd" group-title="Новостные", Cheddar News
-http://live.chdrstatic.com/cbn/primary/4.m3u8
 
 #EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="Испанские", La 1
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
