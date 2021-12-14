@@ -69,7 +69,7 @@ http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 udp://@233.81.116.76:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Телеканал_витебск_лого.jpg/220px-Телеканал_витебск_лого.jpg" group-title="Местные", Витебск	
 #EXTGRP:Местные
-udp://@233.81.116.220:1234
+udp://@233.81.116.16:1234
 #EXTINF:-1 tvg-logo="http://mininform.gov.by/upload/iblock/185/18582045a5346f43610713d64dc90825.jpg" group-title="Местные", Звязда	
 #EXTGRP:Местные
 udp://@233.81.116.81:1234
