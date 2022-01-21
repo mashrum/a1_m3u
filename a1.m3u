@@ -460,10 +460,8 @@ udp://@233.81.116.162:1234
 udp://@233.81.116.100:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/abeb2be3890c7c4faa78_250x250c.jpg" group-title="Спорт", КХЛ HD	
 udp://@233.81.116.107:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/79e1386b3a38b1e77a05_250x250c.jpg" group-title="Спорт", UFC HD	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/79e1386b3a38b1e77a05_250x250c.jpg" group-title="Спорт", UDAR	
 udp://@233.81.116.168:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d1962e28ef7a78d7a76c_250x250c.png" group-title="Спорт", Viasat Sport	
-udp://@233.81.116.184:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/e909650292b0ee2853f3_250x250c.png" group-title="Спорт", Матч! Планета	
 udp://@233.81.116.211:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ddec790bf0716d64f64f_250x250c.png" group-title="Спорт", Extrim Sports Channel	
