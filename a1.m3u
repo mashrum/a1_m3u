@@ -259,6 +259,8 @@ udp://@233.81.116.123:1234
 udp://@233.81.116.84:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/60c74083dfcc5407ca19_250x250c.png" group-title="Кино 2", Star Family
 udp://@233.81.116.61:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c55254f8dafac2a16b2e_250x250c.jpg" group-title="Кино 2", Star Cinema	
+udp://@233.81.116.74:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/24dc3cb763ef2d253053_250x250c.jpg" group-title="Кино 2", FULMUADRAMA	
 udp://@233.81.116.105:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/e5961c31b695a7642f4b_250x250c.jpg" group-title="Кино 2", НТВ Право
@@ -341,8 +343,6 @@ udp://@233.81.116.43:1234
 udp://@233.81.116.72:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/21b83d2f6d86d43201ca_250x250c.jpg" group-title="Научно-популярные", DocuBox HD	
 udp://@233.81.116.73:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/6d9310768f67c8c06a1e_250x250c.png" group-title="Научно-популярные", Тайны галактики	
-udp://@233.81.116.74:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4409afe5f5fbf53a2c72_250x250c.jpg" group-title="Научно-популярные", Нано HD	
 udp://@233.81.116.56:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8cdfd667788bfa425850_250x250c.png" group-title="Научно-популярные", Кто есть кто	
@@ -378,6 +378,8 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/399c076e26250c99214e_250x250c.png" group-title="Инфо-развлекательные", 2x2	
 udp://@233.81.116.48:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d4bafdb7a230d8ea2669_250x250c.jpg" group-title="Инфо-развлекательные", +ТВ	
+udp://@233.81.116.112:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/1b4f6e54362f80266637_250x250c.png" group-title="Инфо-развлекательные", 5 international	
 udp://@233.81.116.13:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/1c772a491ce8925931e0_250x250c.png" group-title="Инфо-развлекательные", ПерецI	
