@@ -290,11 +290,11 @@ udp://@233.81.116.60:1234
 udp://@233.81.116.15:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/detskiy_mir_teleclub.png" group-title="Детские", Детский Мир
 http://178.124.183.5/hls/9F67L3DGIF_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b5287897816b57113bbf_250x250c.jpg" group-title="Детские", CTC Kids	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b5287897816b57113bbf_250x250c.jpg" group-title="Детские", СТС Kids	
 udp://@233.81.116.134:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDFHQ8y/21-CTC.png" group-title="Детские", СТС Kids
 #EXTGRP:Детские
-http://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
+#http://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/47964ed77ad0f93715c3_250x250c.jpg" group-title="Музыка", MTV 00s
 udp://@233.81.116.85:1234
