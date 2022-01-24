@@ -280,18 +280,18 @@ udp://@233.81.116.82:1234
 udp://@233.81.116.187:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/0239a2fcab5fb5467c33_250x250c.png" group-title="Детские", Boomerang	
 udp://@233.81.116.188:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/da1ceb0bcf8b7718178d_250x250c.png" group-title="Детские", Рыжий	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/5af09d534f5b01b0698a_250x250c.jpg" group-title="Детские", Малыш-ТВ	
 udp://@233.81.116.121:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d07c74ffdae7e2ac008c_250x250c.jpg" group-title="Детские", Советские Мультфильмы	
 udp://@233.81.116.156:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4572abbe495007aab3ab_250x250c.png" group-title="Детские", Карусель	
 udp://@233.81.116.60:1234
-
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/0e3155923cb9ab7259c0_250x250c.png" group-title="Детские", Сказки Зайки	
 udp://@233.81.116.15:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/detskiy_mir_teleclub.png" group-title="Детские", Детский Мир
 http://178.124.183.5/hls/9F67L3DGIF_HLS/variant.m3u8
-
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b5287897816b57113bbf_250x250c.jpg" group-title="Детские", CTC Kids	
+udp://@233.81.116.134:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDFHQ8y/21-CTC.png" group-title="Детские", СТС Kids
 #EXTGRP:Детские
 http://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
@@ -355,8 +355,6 @@ udp://@233.81.116.104:1234
 udp://@233.81.116.115:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b4c14557e6c11b291922_250x250c.png" group-title="Научно-популярные", History HD
 udp://@233.81.116.95:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/97613bfad92bcb1a9423_250x250c.png" group-title="Научно-популярные", History 2 HD (Тест)	
-udp://@233.81.116.134:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f7435ee0ac10e5e7095a_250x250c.jpg" group-title="Научно-популярные", 365 дней ТВ	
 udp://@233.81.116.111:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/71c582b8dea5202f0a4b_250x250c.jpg" group-title="Научно-популярные", Russian Travel Guide	
