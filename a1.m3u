@@ -283,6 +283,8 @@ udp://@233.81.116.116:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/120a301b1698846a20bc_250x250c.png" group-title="Кино 1" tvg-shift=0, Киносемья	
 #EXTGRP:Кино 1
 udp://@233.81.116.159:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a54b6081fa4d31500c0d_250x250c.png"" group-title="Кино 1", Кинохит
+udp://@233.81.116.217:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ac41b0d70f3814a501b5_250x250c.png" group-title="Кино 1" tvg-shift=0, Кинопремьера HD	
 #EXTGRP:Кино 1
 udp://@233.81.116.173:1234
@@ -301,6 +303,14 @@ udp://@233.81.116.96:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/dorama.png" group-title="Кино 1", Дорама
 #EXTGRP:Кино 1
 http://178.124.183.5/hls/CH_DORAMA_HLS/variant.m3u8
+#EXTINF:-1,STR
+https://strtv.at.ua/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://wmpics.pics/dm-VLA5.png" group-title="Кино 1", Akudji
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Кино 1", ФАНТАСТИКА
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Кино 1", Ужасы
+http://v2.catcast.tv/content/38896/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/%D0%A0%D0%B5%D1%82%D1%80%D0%BE_250x250c.png" group-title="Кино 2", Ретро	
