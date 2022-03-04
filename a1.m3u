@@ -283,7 +283,7 @@ udp://@233.81.116.116:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/120a301b1698846a20bc_250x250c.png" group-title="Кино 1" tvg-shift=0, Киносемья	
 #EXTGRP:Кино 1
 udp://@233.81.116.159:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a54b6081fa4d31500c0d_250x250c.png"" group-title="Кино 1", Кинохит
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a54b6081fa4d31500c0d_250x250c.png" group-title="Кино 1", Кинохит
 udp://@233.81.116.217:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ac41b0d70f3814a501b5_250x250c.png" group-title="Кино 1" tvg-shift=0, Кинопремьера HD	
 #EXTGRP:Кино 1
