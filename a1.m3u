@@ -307,9 +307,9 @@ http://178.124.183.5/hls/CH_DORAMA_HLS/variant.m3u8
 https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://wmpics.pics/dm-VLA5.png" group-title="Кино 1", Akudji
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Кино 1", ФАНТАСТИКА
+#EXTINF:-1 tvg-logo="https://s6.vcdn.biz/static/f/1386000861/image.jpg/pt/r250x250" group-title="Кино 1", ФАНТАСТИКА
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Кино 1", Ужасы
+#EXTINF:-1 tvg-logo="https://cdn.red-media.ru/800x466-2019-10-KINOUZHAS_kvadrat-150h90.jpg" group-title="Кино 1", Ужасы
 http://v2.catcast.tv/content/38896/index.m3u8
 
 
