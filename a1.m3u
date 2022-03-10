@@ -141,8 +141,6 @@ http://stream.ntktv.ua/s/ntk/ntk.m3u8
 http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Україна",ТІС(ОДЕССА)
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
-#EXTINF:-1 group-title="Україна",Інший
-http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1 group-title="Україна",Думская ТВ (Одесса)
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="Україна",7 канал (Одесса)
@@ -302,8 +300,8 @@ udp://@233.81.116.66:1234
 udp://@233.81.116.96:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/dorama.png" group-title="Кино 1", Дорама
 #EXTGRP:Кино 1
-http://178.124.183.5/hls/CH_DORAMA_HLS/variant.m3u8
-#EXTINF:-1,STR
+#http://178.124.183.5/hls/CH_DORAMA_HLS/variant.m3u8
+#EXTINF:-1,tvg-logo="https://ritsatv.ru/files/poster/medium/600612.jpg" group-title="Кино 1", STR
 https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://wmpics.pics/dm-VLA5.png" group-title="Кино 1", Akudji
 https://hls.goodgame.ru/hls/5346.m3u8
