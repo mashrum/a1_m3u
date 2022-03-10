@@ -57,7 +57,7 @@ udp://@233.81.116.18:1234
 #EXTGRP:Местные
 udp://@233.81.116.101:1234
 #EXTGRP:Местные
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d9edb0a972cfafe4bbc8_250x250c.png" group-title="Местные", 8 канал HD	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/3fdf6e40510a712196e4_250x250c.jpg" group-title="Местные", 8 канал HD	
 #EXTGRP:Местные
 udp://@233.81.116.59:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7Wf5F/BS.png" group-title="Местные", Белсат
@@ -202,7 +202,7 @@ http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/261bfed3d2ae47065515_250x250c.jpg" group-title="Кино 1", Amedia 1 HD	
 #EXTGRP:Кино 1
 udp://@233.81.116.70:1234
-#EXTINF:-1 tvg-logo="https://cdn.ntvplus.ru/files/image/01/18/37/-channel!366.png" group-title="Кино 1", Amedia 2 HD	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c618998f45b6ffd6f170_250x250c.png" group-title="Кино 1", Amedia 2 HD	
 #EXTGRP:Кино 1
 udp://@233.81.116.71:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/693f54e8644e1555d961_250x250c.png" group-title="Кино 1", AMEDIA Premium HD	
@@ -211,7 +211,7 @@ udp://@233.81.116.167:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/09bee5622949dfc2db5f_250x250c.png" group-title="Кино 1", Amedia Hit HD	
 #EXTGRP:Кино 1
 udp://@233.81.116.171:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d9edb0a972cfafe4bbc8_250x250c.png" group-title="Кино 1", 8 канал HD	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/3fdf6e40510a712196e4_250x250c.jpg" group-title="Кино 1", 8 канал HD	
 #EXTGRP:Кино 1
 udp://@233.81.116.59:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cbcf68e7a08ff0f58673_250x250c.png" group-title="Кино 1", FOX Life HD	
@@ -225,10 +225,10 @@ udp://@233.81.116.63:1234
 udp://@233.81.116.38:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/9716e6a674548f7a01f6_250x250c.jpg" group-title="Кино 1", .black	
 udp://@233.81.116.129:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/7eefa408058d9f884fce_250x250c.png" group-title="Кино 1", TV 1000 Action	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/81169ed62bda9da8fe35_250x250c.jpg" group-title="Кино 1", TV 1000 Action	
 #EXTGRP:Кино 1
 udp://@233.81.116.80:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/eb6bc249b167a8bd31a0_250x250c.png" group-title="Кино 1", TV 1000	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/21ecd727f66a7396165c_250x250c.jpg" group-title="Кино 1", TV 1000	
 #EXTGRP:Кино 1
 udp://@233.81.116.83:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/306c32f8b6dab1c70bd7_250x250c.png" group-title="Кино 1", Movie Classic	
@@ -295,7 +295,7 @@ https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/zee.png" group-title="Кино 1", Zee TV	
 #EXTGRP:Кино 1
 udp://@233.81.116.66:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/77893c3f00bfa94df02a_250x250c.png" group-title="Кино 1", Timeless Dizi Channel	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8baa83de05da4a7f8ce9_250x250c.png" group-title="Кино 1", Timeless Dizi Channel	
 #EXTGRP:Кино 1
 udp://@233.81.116.96:1234
 
