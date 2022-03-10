@@ -123,21 +123,21 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/hFc01pqtCtAbOHOo0Zr7aHyQDGAyegEMcpLwDC26-QdcPu3743ZUXMU0kUUFOMfv_gkNSS3K=s176-c-k-c0x00ffffff-no-rj" group-title="Україна",Рада ТВ
 https://rada-rtmp.adamant.net/hls/rada.m3u8
-#EXTINF:-1 tvg-logo="http://newsrbk.ru/images/channels/6467.png" group-title="Україна",Прямий HD
+#EXTINF:-1 tvg-logo="http://newsrbk.ru/images/channels/6467.png" group-title="Україна", Прямий HD
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.sweet.tv/images/icons/channels/440.png" group-title="Україна",Одесса Int.
+#EXTINF:-1 tvg-logo="https://static.sweet.tv/images/icons/channels/440.png" group-title="Україна", Одесса Int.
 http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
 #EXTINF:-1 group-title="Україна",Plus
 http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
-#EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/prime_time.png" group-title="Україна",Prime Time
+#EXTINF:-1 tvg-logo="https://tvtvtv.ru/icons/prime_time.png" group-title="Україна", Prime Time
 http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
-#EXTINF:-1 group-title="Україна",Сварожичи
+#EXTINF:-1 group-title="Україна", Сварожичи
 http://tv.tv-project.com:1935/live/live1/playlist.m3u8
-#EXTINF:-1 group-title="Україна",К1
+#EXTINF:-1 tvg-logo="https://file.liga.net/images/general/2019/07/10/20190710170156-2436.jpg" group-title="Україна", К1
 http://109.68.40.67/life/k1_3/index.m3u8
 #EXTINF:-1 group-title="Україна",НТК ТВ Україна
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1 group-title="Україна",Перший західний
+#EXTINF:-1 group-title="Україна", Перший західний
 http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Україна",ТІС(ОДЕССА)
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
@@ -155,15 +155,15 @@ http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.tildacdn.com/tild6535-3062-4431-a332-663966396537/-/format/webp/logo.png" group-title="Україна", А1 (Одесса)
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
-#EXTINF:-1 group-title="Україна",TV5 (Запорожье) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebbW5BHvBqGrqbqKo-xUNksX5tNCeD8ciP94ybhGp_T7YTL9FiloHIbVyWuTaNKgcOM8&usqp=CAU" group-title="Україна",TV5 (Запорожье) 
 https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
 #EXTINF:-1 group-title="Україна",ИРТ (Днепр)
 http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gzSvRWXiJmXjd1sNmGz4Anr0xmWnWVmp-ZJunEspTGEy_71hJ5hdPx5VFE2xoI6QA7_R1hSvTx0=s900-c-k-c0x00ffffff-no-rj" group-title="Україна", Bambarbia TV HD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gzSvRWXiJmXjd1sNmGz4Anr0xmWnWVmp-ZJunEspTGEy_71hJ5hdPx5VFE2xoI6QA7_R1hSvTx0=s250-c-k-c0x00ffffff-no-rj" group-title="Україна", Bambarbia TV HD
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvxpix.ml/pervy-gorodskoy-kryvrig.png" group-title="Україна", Первый Городской (Кривой Рог)
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
-#EXTINF:-1 group-title="Україна",Херсон плюс
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/UoVhU2SsvnPg0qv24b6OZN4nXYMU2fQqhq21gQ6qVkOC89n2Q_AjOqekUtpBqso_019TXohaDrE=s250-c-k-c0x00ffffff-no-rj" group-title="Україна", Херсон плюс
 http://iptv.rubintele.com:8552/play/a001
 #EXTINF:-1 group-title="Україна",KRATU(ХЕРСОН)
 http://iptv.rubintele.com:8552/play/a008
