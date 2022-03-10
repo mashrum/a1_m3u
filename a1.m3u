@@ -298,10 +298,13 @@ udp://@233.81.116.66:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/77893c3f00bfa94df02a_250x250c.png" group-title="Кино 1", Timeless Dizi Channel	
 #EXTGRP:Кино 1
 udp://@233.81.116.96:1234
-#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/dorama.png" group-title="Кино 1", Дорама
+
+## EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/dorama.png" group-title="Кино 1", Дорама
+## EXTGRP:Кино 1
+## http://178.124.183.5/hls/CH_DORAMA_HLS/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/600612.jpg" group-title="Кино 1", STR
 #EXTGRP:Кино 1
-#http://178.124.183.5/hls/CH_DORAMA_HLS/variant.m3u8
-#EXTINF:-1,tvg-logo="https://ritsatv.ru/files/poster/medium/600612.jpg" group-title="Кино 1", STR
 https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://wmpics.pics/dm-VLA5.png" group-title="Кино 1", Akudji
 https://hls.goodgame.ru/hls/5346.m3u8
