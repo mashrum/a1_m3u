@@ -159,9 +159,9 @@ http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
 https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
 #EXTINF:-1 group-title="Україна",ИРТ (Днепр)
 http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
-#EXTINF:-1 group-title="Україна", Bambarbia TV HD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gzSvRWXiJmXjd1sNmGz4Anr0xmWnWVmp-ZJunEspTGEy_71hJ5hdPx5VFE2xoI6QA7_R1hSvTx0=s900-c-k-c0x00ffffff-no-rj" group-title="Україна", Bambarbia TV HD
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:-1 vg-logo="https://iptvxpix.ml/pervy-gorodskoy-kryvrig.png" group-title="Україна", Первый Городской (Кривой Рог)
+#EXTINF:-1 tvg-logo="https://iptvxpix.ml/pervy-gorodskoy-kryvrig.png" group-title="Україна", Первый Городской (Кривой Рог)
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
 #EXTINF:-1 group-title="Україна",Херсон плюс
 http://iptv.rubintele.com:8552/play/a001
