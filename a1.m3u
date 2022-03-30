@@ -80,10 +80,11 @@ udp://@233.81.116.81:1234
 #http://87.252.229.252:8081/varag
 
 
-##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/32e4cb48cf462d6e52e4_250x250c.png" group-title="Новостные", Euronews	
-##EXTGRP:Новостные
-##http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/32e4cb48cf462d6e52e4_250x250c.png" group-title="Новостные", Euronews	
+#EXTGRP:Новостные
+https://www.dailymotion.com/cdn/live/video/x2j7igz.m3u8?sec=ujE6qAeW-ZmorUa_GLbsSmhMl9qaHrqkxyHQvoUB8Y4QvqFJwKVart0OVpPQz-a3IWmUzpVhHU_UxqUmN2B-1Q&dmTs=684814&dmV1st=FECAAE22CA94D3C877AB974B7A56A495&progressive=1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJBHUQFwDuzET33f-WPlqNKt4ltH-cJx-0dHf-DguNEOMKJ_YmKngStrwaa2TOGYp2Mxk&usqp=CAU" tvg-name="Хабар 24" group-title="Новостные", Хабар 24
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/74df1b1635e346f590f5_250x250c.png" group-title="Новостные", ББК	
 #EXTGRP:Новостные
 udp://@233.81.116.24:1234
@@ -105,6 +106,8 @@ http://live.chdrstatic.com/cheddar/index.m3u8
 http://live.chdrstatic.com/cbn/primary/4.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="Новостные", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-name="CGTN Русский" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="Новостные", CGTN Русский
+https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://warsawinstitute.org/wp-content/uploads/2020/07/TVP-INFO-LOGO-768x768.png" group-title="Новостные", TVP3 Info
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 
