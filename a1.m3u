@@ -231,7 +231,7 @@ udp://@233.81.116.59:1234
 udp://@233.81.116.38:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/9716e6a674548f7a01f6_250x250c.jpg" group-title="Кино 1", .black	
 udp://@233.81.116.129:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/911cbfa2b3385f2c7227_250x250c.jpg.jpg" group-title="Кино 1", .red	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/911cbfa2b3385f2c7227_250x250c.jpg" group-title="Кино 1", .red	
 udp://@233.81.116.108:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/81169ed62bda9da8fe35_250x250c.jpg" group-title="Кино 1", TV 1000 Action	
 #EXTGRP:Кино 1
@@ -269,9 +269,9 @@ udp://@233.81.116.177:1234
 http://mfe.svc.ott.zala.by/hls/CH_TRASH_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/6e0221fb7e1a7d941534_250x250c.jpg" group-title="Кино 1", КиноСат
 udp://@233.81.116.127:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/aed6b9979b3cdcf870f5_250x250c.png" group-title="Кино 1", Shot TV	
-#EXTGRP:Кино 1
-udp://@233.81.116.186:1234
+##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/aed6b9979b3cdcf870f5_250x250c.png" group-title="Кино 1", Shot TV	
+##EXTGRP:Кино 1
+#udp://@233.81.116.186:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/147ffe427d34f9c880f2_250x250c.png" group-title="Кино 1", Еврокино	
 #EXTGRP:Кино 1
 udp://@233.81.116.27:1234
@@ -406,7 +406,7 @@ udp://@233.81.116.94:1234
 udp://@233.81.116.89:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/152f7298240b5671ab85_250x250c.png" group-title="Музыка", Mezzo Live HD	
 udp://@233.81.116.169:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/9a45f46b4d4b9e5081aa_250x250c.jpg" group-title="Музыка", Live Music Channel	HD
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/9b9b3bf1e50243cd21ec_250x250c.jpg" group-title="Музыка", Live Music Channel	HD
 udp://@233.81.116.144:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/fd131e3f7ee9cce77229_250x250c.jpg" group-title="Музыка", MCM Top	
 udp://@233.81.116.97:1234
@@ -414,7 +414,7 @@ udp://@233.81.116.97:1234
 udp://@233.81.116.45:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cd2872a52d2d79e018a4_250x250c.jpg" group-title="Музыка", Europa Plus TV	
 udp://@233.81.116.47:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b44923cc983cf23cf319_250x250c.jpg" group-title="Музыка", БелМузТВ	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b85cd6c78d3ad0838894_250x250c.jpg" group-title="Музыка", БелМузТВ	
 udp://@233.81.116.75:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/e81a68a4a140ddf7d814_250x250c.png" group-title="Музыка", RU.TV Беларусь	
 udp://@233.81.116.77:1234	
@@ -443,7 +443,7 @@ udp://@233.81.116.72:1234
 udp://@233.81.116.73:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4409afe5f5fbf53a2c72_250x250c.jpg" group-title="Научно-популярные", Нано HD	
 udp://@233.81.116.56:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8cdfd667788bfa425850_250x250c.png" group-title="Научно-популярные", Кто есть кто	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/2a1c74fffab6472d853d_250x250c.jpg" group-title="Научно-популярные", Кто есть кто	
 udp://@233.81.116.121:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/7dabc4f291fc2b9dee11_250x250c.png" group-title="Научно-популярные", Viasat Explore	
 udp://@233.81.116.103:1234
@@ -550,7 +550,6 @@ udp://@233.81.116.180:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/2b2f8ee00eac2da439d1_250x250c.png" group-title="Спорт", Setanta Sports 2 HD	
 udp://@233.81.116.162:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/2b2f8ee00eac2da439d1_250x250c.png" group-title="Спорт", Setanta Life HD	
-udp://@233.81.116.162:1234
 udp://@233.81.116.61:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ada6a34ceca561054847_250x250c.jpg" group-title="Спорт", М-1 Глобал	
 #udp://@233.81.116.100:1234
