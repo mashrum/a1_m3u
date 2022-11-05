@@ -80,30 +80,30 @@ udp://@233.81.116.81:1234
 #http://87.252.229.252:8081/varag
 
 
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/32e4cb48cf462d6e52e4_250x250c.png" group-title="Новостные", Euronews	
-#EXTGRP:Новостные
-https://www.dailymotion.com/cdn/live/video/x2j7igz.m3u8?sec=ujE6qAeW-ZmorUa_GLbsSmhMl9qaHrqkxyHQvoUB8Y4QvqFJwKVart0OVpPQz-a3IWmUzpVhHU_UxqUmN2B-1Q&dmTs=684814&dmV1st=FECAAE22CA94D3C877AB974B7A56A495&progressive=1
+##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/32e4cb48cf462d6e52e4_250x250c.png" group-title="Новостные", Euronews	
+##EXTGRP:Новостные
+#https://www.dailymotion.com/cdn/live/video/x2j7igz.m3u8?sec=ujE6qAeW-ZmorUa_GLbsSmhMl9qaHrqkxyHQvoUB8Y4QvqFJwKVart0OVpPQz-a3IWmUzpVhHU_UxqUmN2B-1Q&dmTs=684814&dmV1st=FECAAE22CA94D3C877AB974B7A56A495&progressive=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJBHUQFwDuzET33f-WPlqNKt4ltH-cJx-0dHf-DguNEOMKJ_YmKngStrwaa2TOGYp2Mxk&usqp=CAU" tvg-name="Хабар 24" group-title="Новостные", Хабар 24
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/74df1b1635e346f590f5_250x250c.png" group-title="Новостные", ББК	
-#EXTGRP:Новостные
-udp://@233.81.116.24:1234
+##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/74df1b1635e346f590f5_250x250c.png" group-title="Новостные", ББК	
+##EXTGRP:Новостные
+#udp://@233.81.116.24:1234
 
 ##EXTINF:-1 tvg-logo="https://habrastorage.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" group-title="Новостные", РБК	
 ##EXTGRP:Новостные
 ##https://e2-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 ##https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="France24.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="Новостные", France 24
-https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="BloombergEurope.uk" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmJsb29tYmVyZy5hbmRyb2lkLnBsdXNfaWNvbl8xNTY1ODIzNTQ4XzA0Nw/icon.png?w=&fakeurl=1" group-title="Новостные", Bloomberg Europe
-http://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+##EXTINF:-1 tvg-id="France24.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="Новостные", France 24
+#https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+##EXTINF:-1 tvg-id="BloombergEurope.uk" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmJsb29tYmVyZy5hbmRyb2lkLnBsdXNfaWNvbl8xNTY1ODIzNTQ4XzA0Nw/icon.png?w=&fakeurl=1" group-title="Новостные", Bloomberg Europe
+#http://liveprodeuwest.global.ssl.fastly.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.pinimg.com/280x280_RS/eb/3f/2a/eb3f2ab57d69e4538f6adc2b57f54443.jpg" group-title="Новостные", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/05.m3u8
-#EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://podcasts.podinstall.com/assets/img/rs/600/311e6ebcc65754b1d1fc5f06a7e0b57a56e03d2a-edd6bc9f.jpg" group-title="Новостные", Cheddar Business
-http://live.chdrstatic.com/cheddar/index.m3u8
-#EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://play-lh.googleusercontent.com/mXoCR2LDPQhX_oNPJfwRYsyzjN8OmDBMljfGGtBBzfj9vkVY8Hg4vPf-N2JaiAvSoIzd" group-title="Новостные", Cheddar News
-http://live.chdrstatic.com/cbn/primary/4.m3u8
+##EXTINF:-1 tvg-id="Cheddar.us" tvg-logo="https://podcasts.podinstall.com/assets/img/rs/600/311e6ebcc65754b1d1fc5f06a7e0b57a56e03d2a-edd6bc9f.jpg" group-title="Новостные", Cheddar Business
+#http://live.chdrstatic.com/cheddar/index.m3u8
+##EXTINF:-1 tvg-id="CheddarNews.us" tvg-logo="https://play-lh.googleusercontent.com/mXoCR2LDPQhX_oNPJfwRYsyzjN8OmDBMljfGGtBBzfj9vkVY8Hg4vPf-N2JaiAvSoIzd" group-title="Новостные", Cheddar News
+#http://live.chdrstatic.com/cbn/primary/4.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="Новостные", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-name="CGTN Русский" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" group-title="Новостные", CGTN Русский
@@ -111,13 +111,13 @@ https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://warsawinstitute.org/wp-content/uploads/2020/07/TVP-INFO-LOGO-768x768.png" group-title="Новостные", TVP3 Info
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 
-#EXTINF:-1 tvg-id="RTVE24.es" tvg-logo="https://img2.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Новостные", RTVE 24
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
-#EXTINF:-1 tvg-id="3/24.es" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="Новостные",3/24
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+##EXTINF:-1 tvg-id="RTVE24.es" tvg-logo="https://img2.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="Новостные", RTVE 24
+#https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
+##EXTINF:-1 tvg-id="3/24.es" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dc/Canal3-24_logo2014.png/revision/latest?cb=20140121145440" group-title="Новостные",3/24
+#https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="Новостные", Sky News
-http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+##EXTINF:-1 tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Sky_News_2015_Logo.svg/800px-Sky_News_2015_Logo.svg.png" group-title="Новостные", Sky News
+#http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.uk" tvg-logo="https://www.azernews.az/media/2018/07/07/trt_world_070718.png" group-title="Новостные",TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2013/11/08/5ba28169-5bfb-48a6-927c-9b39fec9ffb9/thumbnail/1200x630/1831cd7f24c2a77487092b7956a32bed/cbsnews-stack_1280X960.jpg" group-title="Новостные", CBS News
@@ -139,66 +139,66 @@ http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
 http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTrHmW3KoxB_VvtWVZDIe1LKaE_vDCXTzuqRVFT=s250-c-k-c0x00ffffff-no-rj" group-title="Україна", Сварожичи
 http://tv.tv-project.com:1935/live/live1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://file.liga.net/images/general/2019/07/10/20190710170156-2436.jpg" group-title="Україна", К1
-http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Україна", НТК ТВ Україна
-http://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMUqgWzej1PCNkS1UMBvNlvzV8HVeVr4V-w&usqp=CAU" group-title="Україна", Перший західний
-http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://file.liga.net/images/general/2019/07/10/20190710170156-2436.jpg" group-title="Україна", К1
+#http://109.68.40.67/life/k1_3/index.m3u8
+##EXTINF:-1 tvg-logo="https://ntktv.ua/bitrix/templates/ntk_copy/images/logo.png" group-title="Україна", НТК ТВ Україна
+#http://stream.ntktv.ua/s/ntk/ntk.m3u8
+##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMUqgWzej1PCNkS1UMBvNlvzV8HVeVr4V-w&usqp=CAU" group-title="Україна", Перший західний
+#http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv-300.ru/images/tis-tv.png" group-title="Україна", ТІС (ОДЕССА)
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ35R9ub99DpCPVJ6QX3D54nEslgGEfp-AQd8dqsw=s250-c-k-c0x00ffffff-no-rj" group-title="Україна",Думская ТВ (Одесса)
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLR5LVgVyG5r3Tc1MbhrAQtIT7wiV-pfHRjSsspv=s250-c-k-c0x00ffffff-no-rj" group-title="Україна",7 канал (Одесса)
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 group-title="Україна", Южная Волна ТВ (Одесса)
-http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-504/playlist.m3u8
-#EXTINF:-1 group-title="Україна",Здоровье (Одесса)
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/4a/GTVodessa.png/revision/latest?cb=20201114114108&path-prefix=ru" group-title="Україна", G TV (Одесса)
-http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
+##EXTINF:-1 group-title="Україна", Южная Волна ТВ (Одесса)
+#http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-504/playlist.m3u8
+##EXTINF:-1 group-title="Україна",Здоровье (Одесса)
+#http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/4a/GTVodessa.png/revision/latest?cb=20201114114108&path-prefix=ru" group-title="Україна", G TV (Одесса)
+#http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/15/Первый_городской_%28Одесса%29_%282-й_мини_логотип%29.svg/revision/latest/scale-to-width-down/250?cb=20180829125746&path-prefix=ru" group-title="Україна", 1-й городской(ОДЕССА)
 http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://thumb.tildacdn.com/tild6535-3062-4431-a332-663966396537/-/format/webp/logo.png" group-title="Україна", А1 (Одесса)
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebbW5BHvBqGrqbqKo-xUNksX5tNCeD8ciP94ybhGp_T7YTL9FiloHIbVyWuTaNKgcOM8&usqp=CAU" group-title="Україна",TV5 (Запорожье) 
-https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
-#EXTINF:-1 group-title="Україна",ИРТ (Днепр)
-http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gzSvRWXiJmXjd1sNmGz4Anr0xmWnWVmp-ZJunEspTGEy_71hJ5hdPx5VFE2xoI6QA7_R1hSvTx0=s250-c-k-c0x00ffffff-no-rj" group-title="Україна", Bambarbia TV HD
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://thumb.tildacdn.com/tild6535-3062-4431-a332-663966396537/-/format/webp/logo.png" group-title="Україна", А1 (Одесса)
+#http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRebbW5BHvBqGrqbqKo-xUNksX5tNCeD8ciP94ybhGp_T7YTL9FiloHIbVyWuTaNKgcOM8&usqp=CAU" group-title="Україна",TV5 (Запорожье) 
+#https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+##EXTINF:-1 group-title="Україна",ИРТ (Днепр)
+#http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+##EXTINF:-1 tvg-logo="https://yt3.ggpht.com/gzSvRWXiJmXjd1sNmGz4Anr0xmWnWVmp-ZJunEspTGEy_71hJ5hdPx5VFE2xoI6QA7_R1hSvTx0=s250-c-k-c0x00ffffff-no-rj" group-title="Україна", Bambarbia TV HD
+#http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvxpix.ml/pervy-gorodskoy-kryvrig.png" group-title="Україна", Первый Городской (Кривой Рог)
 http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/UoVhU2SsvnPg0qv24b6OZN4nXYMU2fQqhq21gQ6qVkOC89n2Q_AjOqekUtpBqso_019TXohaDrE=s250-c-k-c0x00ffffff-no-rj" group-title="Україна", Херсон плюс
-http://iptv.rubintele.com:8552/play/a001
-#EXTINF:-1 group-title="Україна",KRATU(ХЕРСОН)
-http://iptv.rubintele.com:8552/play/a008
+##EXTINF:-1 tvg-logo="https://yt3.ggpht.com/UoVhU2SsvnPg0qv24b6OZN4nXYMU2fQqhq21gQ6qVkOC89n2Q_AjOqekUtpBqso_019TXohaDrE=s250-c-k-c0x00ffffff-no-rj" group-title="Україна", Херсон плюс
+#http://iptv.rubintele.com:8552/play/a001
+##EXTINF:-1 group-title="Україна",KRATU(ХЕРСОН)
+#http://iptv.rubintele.com:8552/play/a008
 #EXTINF:-1 group-title="Україна",ТВА Чернівці
 http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
 #EXTINF:-1 group-title="Україна",Черновицкий Проминь HD
 http://langate.tv/promin/live_720/index.m3u8
-#EXTINF:-1 group-title="Україна",Надiя
-http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+##EXTINF:-1 group-title="Україна",Надiя
+#http://stream.hope.ua/hopeua/live_1/playlist.m3u8
 #EXTINF:-1 group-title="Україна", Z (Запоріжжя)
 https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 group-title="Україна", Архат ТВ HD (Украина)
-http://arhat.tv/public/720p/index.m3u8
+##EXTINF:-1 group-title="Україна", Архат ТВ HD (Украина)
+#http://arhat.tv/public/720p/index.m3u8
 #EXTINF:-1 group-title="Україна",НТА (Львов)
 http://95.67.106.10/hls/nta_ua_low/index.m3u8
 #EXTINF:-1 group-title="Україна",Правда ТУТ HD (Киев)
 http://pravdatytkievshina-hls3.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Україна",Орбіта
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
+##EXTINF:-1 group-title="Україна",Орбіта
+#http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 group-title="Україна",Алекс TV (Запорожье)
 http://46.46.112.223/live/livestream1.m3u8
 #EXTINF:-1 group-title="Україна",Надия/Новый канал (Харьков.обл.)
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
 
 
-#EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="Испанские", La 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="LA2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Испанские", La 2
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-p.m3u8
+##EXTINF:-1 tvg-id="LA1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="Испанские", La 1
+#http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+##EXTINF:-1 tvg-id="LA2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Испанские", La 2
+#http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TVE_La1_-_Logo_2008.png/200px-TVE_La1_-_Logo_2008.png" group-title="Испанские", Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGalicia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="Испанские", TV Galicia
@@ -309,7 +309,7 @@ udp://@233.81.116.66:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8baa83de05da4a7f8ce9_250x250c.png" group-title="Кино 1", Timeless Dizi Channel	
 #EXTGRP:Кино 1
 udp://@233.81.116.96:1234
-# EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/dorama.png" group-title="Кино 1", Дорама
+#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/dorama.png" group-title="Кино 1", Дорама
 udp://@233.81.116.155:1234
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/600612.jpg" group-title="Кино 1", STR
 #EXTGRP:Кино 1
