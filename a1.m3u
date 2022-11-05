@@ -29,9 +29,9 @@ udp://@233.81.116.6:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/df656ec153fd37707b55_250x250c.png" group-title="Местные", МИР HD	
 #EXTGRP:Местные
 udp://@233.81.116.8:1234
-#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/mir_24.jpg" group-title="Местные", МИР 24
-#EXTGRP:Местные
-http://mfe.svc.ott.zala.by/hls/CH_MIR24HD_HLS/variant.m3u8
+##EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/mir_24.jpg" group-title="Местные", МИР 24
+##EXTGRP:Местные
+#http://mfe.svc.ott.zala.by/hls/CH_MIR24HD_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Брест	
 #EXTGRP:Местные
 http://178.124.183.5/hls/CH_BELARUS4BR_HLS/variant.m3u8
@@ -309,11 +309,8 @@ udp://@233.81.116.66:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8baa83de05da4a7f8ce9_250x250c.png" group-title="Кино 1", Timeless Dizi Channel	
 #EXTGRP:Кино 1
 udp://@233.81.116.96:1234
-
 # EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/dorama.png" group-title="Кино 1", Дорама
-# EXTGRP:Кино 1
 udp://@233.81.116.155:1234
-
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/600612.jpg" group-title="Кино 1", STR
 #EXTGRP:Кино 1
 https://strtv.at.ua/hls/index.m3u8
@@ -574,7 +571,7 @@ udp://@233.81.116.211:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/afcc5f45ba769d0aeb33_250x250c.jpg" group-title="Спорт", Бокс ТВ Плюс
 udp://@233.81.116.140:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c1ab3567f1ffdaa171c7_250x250c.jpg" group-title="Спорт", Eurosport 1 HD
-udp://@233.81.116.140:1234
+udp://@233.81.116.210:1234
 
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/6825b5b2d0459d99b860_250x250c.jpg" group-title="По интересам", Дома ТВ	
 #udp://@233.81.116.20:1234
