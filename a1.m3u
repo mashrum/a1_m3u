@@ -13,7 +13,7 @@ udp://@233.81.116.7:1234
 #EXTGRP:Местные
 udp://@233.81.116.9:1234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/df/Belarus-24.jpg/200px-Belarus-24.jpg" group-title="Местные", Беларусь 24
-http://46.34.209.243:80/btv/SWM/Belarus/Belarus_720p_3500kbps.m3u8
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c7d33ac6873754fcaba3_250x250c.png" group-title="Местные", ОНТ HD	
 #EXTGRP:Местные
 udp://@233.81.116.3:1234
@@ -29,9 +29,10 @@ udp://@233.81.116.6:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/df656ec153fd37707b55_250x250c.png" group-title="Местные", МИР HD	
 #EXTGRP:Местные
 udp://@233.81.116.8:1234
-##EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/mir_24.jpg" group-title="Местные", МИР 24
-##EXTGRP:Местные
-#http://mfe.svc.ott.zala.by/hls/CH_MIR24HD_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/mir_24.jpg" group-title="Местные", МИР 24
+#EXTGRP:Местные
+http://mfe.svc.ott.zala.by/hls/CH_MIR24HD_HLS/variant.m3u8
+#http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/belarus4_1.png" group-title="Местные", Беларусь 4 Брест	
 #EXTGRP:Местные
 http://178.124.183.5/hls/CH_BELARUS4BR_HLS/variant.m3u8
@@ -63,6 +64,7 @@ udp://@233.81.116.59:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qb7Wf5F/BS.png" group-title="Местные", Белсат
 #EXTGRP:Местные
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/53a3212abfbb1520407a_250x250c.png" group-title="Местные", ВТВ HD	
 #EXTGRP:Местные
 udp://@233.81.116.76:1234
@@ -89,10 +91,12 @@ http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 ##EXTGRP:Новостные
 #udp://@233.81.116.24:1234
 
-##EXTINF:-1 tvg-logo="https://habrastorage.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" group-title="Новостные", РБК	
-##EXTGRP:Новостные
+#EXTINF:-1 tvg-logo="https://habrastorage.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" group-title="Новостные", РБК	
+#EXTGRP:Новостные
+http://92.50.128.180/utv/1358/index.m3u8
 ##https://e2-online-video.rbc.ru/online2/rbctv_576p/index.m3u8
 ##https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8
+
 
 ##EXTINF:-1 tvg-id="France24.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="Новостные", France 24
 #https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
@@ -175,8 +179,12 @@ http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
 #http://iptv.rubintele.com:8552/play/a008
 #EXTINF:-1 group-title="Україна",ТВА Чернівці
 http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
-#EXTINF:-1 group-title="Україна",Черновицкий Проминь HD
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/564474487668604928/3cDKbRBD_400x400.png" group-title="Україна",Черновицкий Проминь HD
 http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/1/13/ПравдаТут_%28мини-логотип%29.png/revision/latest?cb=20180411175954&path-prefix=ru" group-title="Україна", Правда ТУТ
+#http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+
 ##EXTINF:-1 group-title="Україна",Надiя
 #http://stream.hope.ua/hopeua/live_1/playlist.m3u8
 #EXTINF:-1 group-title="Україна", Z (Запоріжжя)
@@ -254,12 +262,12 @@ udp://@233.81.116.124:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d73119934bc87fd176c8_250x250c.png" group-title="Кино 1", Cinema HD	
 #EXTGRP:Кино 1
 udp://@233.81.116.158:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/482ade367a0e89e9dfcf_250x250c.png" group-title="Кино 1", Paramount Comedy	
-#EXTGRP:Кино 1
-udp://@233.81.116.172:1234
-#EXTINF:-1 tvg-logo="https://s7.vcdn.biz/static/f/1934862631/image.jpg/pt/r300x423x4" group-title="Кино 1", Paramount Channel	
-#EXTGRP:Кино 1
-udp://@233.81.116.86:1234
+##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/482ade367a0e89e9dfcf_250x250c.png" group-title="Кино 1", Paramount Comedy	
+##EXTGRP:Кино 1
+#udp://@233.81.116.172:1234
+##EXTINF:-1 tvg-logo="https://s7.vcdn.biz/static/f/1934862631/image.jpg/pt/r300x423x4" group-title="Кино 1", Paramount Channel	
+##EXTGRP:Кино 1
+#udp://@233.81.116.86:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/tv-21_m.png" group-title="Кино 1", ТВ-21 М	
 #EXTGRP:Кино 1
 udp://@233.81.116.177:1234
@@ -269,6 +277,10 @@ udp://@233.81.116.177:1234
 http://mfe.svc.ott.zala.by/hls/CH_TRASH_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/6e0221fb7e1a7d941534_250x250c.jpg" group-title="Кино 1", КиноСат
 udp://@233.81.116.127:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/614f2556fea46407539a_250x250c.jpg" group-title="Кино 1", Синема
+udp://@233.81.116.114:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b1ecf79acba1319ee959_250x250c.jpg" group-title="Кино 1", НСТ
+udp://@233.81.116.94:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/aed6b9979b3cdcf870f5_250x250c.png" group-title="Кино 1", Shot TV	
 ##EXTGRP:Кино 1
 #udp://@233.81.116.186:1234
@@ -314,8 +326,8 @@ udp://@233.81.116.155:1234
 #EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/medium/600612.jpg" group-title="Кино 1", STR
 #EXTGRP:Кино 1
 https://strtv.at.ua/hls/index.m3u8
-##EXTINF:-1 tvg-logo="https://wmpics.pics/dm-VLA5.png" group-title="Кино 1", Akudji
-#https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 tvg-logo="https://wmpics.pics/dm-VLA5.png" group-title="Кино 1", Akudji
+https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 tvg-logo="https://s6.vcdn.biz/static/f/1386000861/image.jpg/pt/r250x250" group-title="Кино 1", ФАНТАСТИКА
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.red-media.ru/800x466-2019-10-KINOUZHAS_kvadrat-150h90.jpg" group-title="Кино 1", Ужасы
@@ -357,10 +369,10 @@ http://178.124.183.5/hls/CH_NTVPRAVO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/6e55fc49891d03f23d24_250x250c.jpg" group-title="Кино 2", НТВ Сериал
 udp://@233.81.116.65:1234
 
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f3a578ff59188fa9a6a0_250x250c.png" group-title="Детские", Nickelodeon	
-udp://@233.81.116.62:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4f4ddae75798eb976025_250x250c.png" group-title="Детские", Nick Jr.	
-udp://@233.81.116.34:1234
+##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f3a578ff59188fa9a6a0_250x250c.png" group-title="Детские", Nickelodeon	
+#udp://@233.81.116.62:1234
+##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4f4ddae75798eb976025_250x250c.png" group-title="Детские", Nick Jr.	
+#udp://@233.81.116.34:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a41e4acb1b5290a93242_250x250c.png" group-title="Детские", Мультиландия	
 udp://@233.81.116.30:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/5e564eeef5b55d839c9c_250x250c.jpg" group-title="Детские", Уникум	
@@ -395,14 +407,16 @@ udp://@233.81.116.134:1234
 #EXTGRP:Детские
 #http://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/0bf2bc72bfaab21e73ac_250x250c.jpg" group-title="Музыка", MTV 80s	
-udp://@233.81.116.114:1234
-#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/mtv_90s_wide.png" group-title="Музыка", MTV 90s	
-udp://@233.81.116.170:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/47964ed77ad0f93715c3_250x250c.jpg" group-title="Музыка", MTV 00s
-udp://@233.81.116.166:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/50fda05b3df05c44399b_250x250c.png" group-title="Музыка", MTV	
-udp://@233.81.116.94:1234
+##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/0bf2bc72bfaab21e73ac_250x250c.jpg" group-title="Музыка", MTV 80s	
+#udp://@233.81.116.114:1234
+##EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/mtv_90s_wide.png" group-title="Музыка", MTV 90s	
+#udp://@233.81.116.170:1234
+##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/47964ed77ad0f93715c3_250x250c.jpg" group-title="Музыка", MTV 00s
+#udp://@233.81.116.166:1234
+##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/50fda05b3df05c44399b_250x250c.png" group-title="Музыка", MTV	
+#udp://@233.81.116.94:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/392275edcf6a5769cd88_250x250c.jpg" group-title="Музыка", 1 HD Music Television
+udp://@233.81.116.34:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/499498b1926cbf2853af_250x250c.png" group-title="Музыка", Mezzo	
 udp://@233.81.116.89:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/152f7298240b5671ab85_250x250c.png" group-title="Музыка", Mezzo Live HD	
@@ -464,6 +478,8 @@ udp://@233.81.116.125:1234
 #udp://@233.81.116.150:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f2157459a5245ec675b9_250x250c.jpg" group-title="Научно-популярные", Неизвестная планета	
 udp://@233.81.116.154:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/9178ed1e7f7e3ed2d753_250x250c.jpg" group-title="Научно-популярные", Моя планета
+udp://@233.81.116.86:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/2b812208b3859b00c1b2_250x250c.jpg" group-title="Научно-популярные", Терра Инкогнита HD	
 udp://@233.81.116.35:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/585879d8cde5a8fd3021_200x200c.png" group-title="Научно-популярные", EPOQUE	
@@ -502,7 +518,8 @@ udp://@233.81.116.131:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/0e0202422c50dde4bb93_250x250c.png" group-title="Инфо-развлекательные", КВН ТВ	
 udp://@233.81.116.164:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/1f75617fab60f20996f6_250x250c.png" group-title="Инфо-развлекательные", Сарафан
-http://178.124.183.5:80/hls/Y9GP8UFTZO_HLS/variant.m3u8
+udp://@233.81.116.62:1234
+#http://178.124.183.5:80/hls/Y9GP8UFTZO_HLS/variant.m3u8
 
 
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/3d0146cdd48ad8a0a27f_250x250c.png" group-title="Культура и Fashion", Театр	
