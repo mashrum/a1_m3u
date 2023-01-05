@@ -340,7 +340,7 @@ udp://@233.81.116.52:1234
 udp://@233.81.116.92:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d4bafdb7a230d8ea2669_250x250c.jpg" group-title="Кино 2", +TV	
 udp://@233.81.116.112:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/91f56cc7fcf1c5e3d40c_250x250c.png" group-title="Кино 2", Феникс плюс Кино	
+#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/feniks_pluskino.jpg" group-title="Кино 2", Феникс плюс Кино	
 udp://@233.81.116.185:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d17fa47301c6aa851727_250x250c.png" group-title="Кино 2" tvg-shift=0, Киносерия	
 udp://@233.81.116.119:1234
@@ -375,6 +375,8 @@ udp://@233.81.116.65:1234
 #udp://@233.81.116.34:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a41e4acb1b5290a93242_250x250c.png" group-title="Детские", Мультиландия	
 udp://@233.81.116.30:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/580a56e10201b9ab4878_250x250c.jpg" group-title="Детские", Мульт
+https://mfe.svc.ott.zala.by/hls/5MWF7XUWZI_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/5e564eeef5b55d839c9c_250x250c.jpg" group-title="Детские", Уникум	
 udp://@233.81.116.55:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/070057239239b7ab4dee_250x250c.jpg" group-title="Детские", Смайлик HD
@@ -403,6 +405,8 @@ udp://@233.81.116.130:1234
 http://178.124.183.5/hls/9F67L3DGIF_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b5287897816b57113bbf_250x250c.jpg" group-title="Детские", СТС Kids	
 udp://@233.81.116.134:1234
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/1656757/2a0000016b27217e772b74aada22324a188d/170x100" group-title="Детские", Капитан Фантастика
+https://mfe.svc.ott.zala.by/hls/CH_GINGER_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDFHQ8y/21-CTC.png" group-title="Детские", СТС Kids
 #EXTGRP:Детские
 #http://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
@@ -488,11 +492,18 @@ udp://@233.81.116.35:1234
 #udp://@233.81.116.30:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/25b10a8b80abfdca895a_250x250c.jpg" group-title="Научно-популярные", Живая природа HD	
 #udp://@233.81.116.33:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/25b10a8b80abfdca895a_250x250c.jpg" group-title="Научно-популярные", Домашние животные
+https://mfe.svc.ott.zala.by/hls/CH_DOMZHIVOTNYE_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/795655003226ce0f7e59_250x250c.jpg" group-title="Научно-популярные", Наука
+https://mfe.svc.ott.zala.by/hls/LWWBCKZAPZ_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/logo_galaxy_0.jpg" group-title="Научно-популярные", Тайны Галактики
+https://mfe.svc.ott.zala.by/hls/CH_GALAXY_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/236262604515950fa13d_250x250c.jpg" group-title="Научно-популярные", TLC HD
 udp://@233.81.116.128:1234
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="http://www.maxtvs.net/admin/img/channel/2fc04b6dc6bc10a46126.jpg" group-title="Научно-популярные", CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-
+#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/nasha-tema.png" group-title="Научно-популярные", Наша Тема
+https://mfe.svc.ott.zala.by/hls/CH_NASHATEMA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/04554a413be8ab6d7353_250x250c.jpg" group-title="Инфо-развлекательные", 2x2	
 udp://@233.81.116.48:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/2410c5e2bf4dfede264f_250x250c.jpg" group-title="Инфо-развлекательные", Вопросы и ответы
@@ -503,6 +514,8 @@ udp://@233.81.116.112:1234
 udp://@233.81.116.13:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/1c772a491ce8925931e0_250x250c.png" group-title="Инфо-развлекательные", ПерецI	
 udp://@233.81.116.29:1234
+#EXTINF:-1 tvg-logo="http://online-red.tv/uploads/posts/2019-06/1561743732_anekdottv.jpg" group-title="Инфо-развлекательные", Анекдот ТВ
+https://mfe.svc.ott.zala.by/hls/CH_ANEKDOT_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/14a6c7259e5afe2e336b_250x250c.jpg" group-title="Инфо-развлекательные", ТНТ International	
 udp://@233.81.116.31:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/14a6c7259e5afe2e336b_250x250c.jpg" group-title="Инфо-развлекательные", ТНТ International
@@ -581,6 +594,12 @@ udp://@233.81.116.61:1234
 udp://@233.81.116.107:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/79e1386b3a38b1e77a05_250x250c.jpg" group-title="Спорт", UDAR	
 #udp://@233.81.116.168:1234
+#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/mir_basketbola_0.png" group-title="Спорт", Мир баскетбола
+https://mfe.svc.ott.zala.by/hls/CH_MIRBASKET_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/tochka-otryva.png" group-title="Спорт", Точка отрыва
+https://mfe.svc.ott.zala.by/hls/CH_TOCHKAOTRIV_HLS/variant.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Спорт", Футбол
+https://mfe.svc.ott.zala.by/hls/CH_FOOTBALL_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/e909650292b0ee2853f3_250x250c.png" group-title="Спорт", Матч! Планета	
 udp://@233.81.116.211:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ddec790bf0716d64f64f_250x250c.png" group-title="Спорт", Extrim Sports Channel	
@@ -594,7 +613,8 @@ udp://@233.81.116.210:1234
 #udp://@233.81.116.20:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/990b8970290b6cc35da5_250x250c.png" group-title="По интересам", Усадьба	
 udp://@233.81.116.42:1234
-
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/feeb3d8851269380eb28_250x250c.jpg" group-title="По интересам", Техно 24
+https://mfe.svc.ott.zala.by/hls/ZIVFRAFR2I_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/217476d1092c4bb5b3bf_250x250c.png" group-title="По интересам", Союз	
 udp://@233.81.116.46:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4ff47a1e0937ed04da06_250x250c.png" group-title="По интересам", Авто 24	
