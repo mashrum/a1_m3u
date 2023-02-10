@@ -258,7 +258,7 @@ udp://@233.81.116.41:1234
 udp://@233.81.116.87:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a1be9e19caedeaf02478_250x250c.png" group-title="Кино 1", Hollywood	
 #EXTGRP:Кино 1
-udp://@233.81.116.124:1234
+udp://@233.81.116.124:1235
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d73119934bc87fd176c8_250x250c.png" group-title="Кино 1", Cinema HD	
 #EXTGRP:Кино 1
 udp://@233.81.116.158:1234
