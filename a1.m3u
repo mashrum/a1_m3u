@@ -553,6 +553,8 @@ udp://@233.81.116.151:1234
 udp://@233.81.116.14:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/27b2a2c876ae81e04e1a_250x250c.jpg" group-title="Кино 2", VIP Serial
 udp://@233.81.116.58:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/07ff72c0fa2df391a583_250x250c.jpg" group-title="Кино 2", VIP Comedy
+udp://@233.81.116.39:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b3ee75ff0a7f7b75482f_250x250c.jpg" group-title="Культура и Fashion", Fashion & Lifestyle HD	
 udp://@233.81.116.40:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cc8b34bdce16be9f6aba_250x250c.png" group-title="Культура и Fashion", Fashion 4K (тест)	
