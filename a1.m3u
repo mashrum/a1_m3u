@@ -231,9 +231,9 @@ udp://@233.81.116.59:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cbcf68e7a08ff0f58673_250x250c.png" group-title="Кино 1", FOX Life HD	
 ##EXTGRP:Кино 1
 #udp://@233.81.116.68:1234
-##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ec83f2f545af58055f78_250x250c.jpg" group-title="Кино 1", FOX HD	
-##EXTGRP:Кино 1
-#udp://@233.81.116.63:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/9156c49dbc8dabac0433_200x200c.png" group-title="Спорт", Viasat Sport HD
+#EXTGRP:Спорт
+udp://@233.81.116.63:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f7cc1aa9638a15ed0f50_250x250c.jpg" group-title="Кино 1", Sony Sci-Fi	
 #EXTGRP:Кино 1
 udp://@233.81.116.38:1234
