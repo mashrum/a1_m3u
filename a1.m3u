@@ -358,8 +358,6 @@ udp://@233.81.116.123:1234
 udp://@233.81.116.84:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/66f2ec1a588d0e655b45_250x250c.jpg" group-title="Кино 2", BOLT	
 #udp://@233.81.116.57:1234
-##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c55254f8dafac2a16b2e_250x250c.jpg" group-title="Кино 2", Star Cinema	
-#udp://@233.81.116.74:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/24dc3cb763ef2d253053_250x250c.jpg" group-title="Кино 2", FULMUADRAMA	
 #udp://@233.81.116.105:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/e5961c31b695a7642f4b_250x250c.jpg" group-title="Кино 2", НТВ Право
@@ -367,6 +365,8 @@ http://178.124.183.5/hls/CH_NTVPRAVO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/6e55fc49891d03f23d24_250x250c.jpg" group-title="Кино 2", НТВ Сериал
 udp://@233.81.116.65:1234
 
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/e57ee487d4ef2c9a4e0f_250x250c.jpg" group-title="Детские", Сказки Зайки
+udp://@233.81.116.74:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f3a578ff59188fa9a6a0_250x250c.png" group-title="Детские", Nickelodeon	
 #udp://@233.81.116.62:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4f4ddae75798eb976025_250x250c.png" group-title="Детские", Nick Jr.	
