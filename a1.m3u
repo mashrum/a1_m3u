@@ -610,6 +610,8 @@ udp://@233.81.116.140:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c1ab3567f1ffdaa171c7_250x250c.jpg" group-title="Спорт", Eurosport 1 HD
 udp://@233.81.116.210:1234
 
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b246955705ccc1003351_250x250c.jpg" group-title="По интересам", Психология 21
+udp://@233.81.116.236:3214
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/6825b5b2d0459d99b860_250x250c.jpg" group-title="По интересам", Дома ТВ	
 #udp://@233.81.116.20:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/990b8970290b6cc35da5_250x250c.png" group-title="По интересам", Усадьба	
