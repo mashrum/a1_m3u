@@ -579,6 +579,8 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 ##EXTINF:-1 tvg-id="FashionLifestyle.ua" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="Культура и Fashion", Fashion&Lifestyle
 #http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/19bc553a148f00adf847_250x250c.jpg" group-title="Спорт", Extreme Sports
+udp://@233.81.116.239:3214
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/bba4f7168f419827b25a_250x250c.jpg" group-title="Спорт", MMA-TV HD
 udp://@233.81.116.93:1234
 ##EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="Спорт", Stadium
