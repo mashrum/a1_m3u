@@ -231,9 +231,9 @@ udp://@233.81.116.59:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cbcf68e7a08ff0f58673_250x250c.png" group-title="Кино 1", FOX Life HD	
 ##EXTGRP:Кино 1
 #udp://@233.81.116.68:1234
-##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ec83f2f545af58055f78_250x250c.jpg" group-title="Кино 1", FOX HD	
-##EXTGRP:Кино 1
-#udp://@233.81.116.63:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/9156c49dbc8dabac0433_200x200c.png" group-title="Спорт", Viasat Sport HD
+#EXTGRP:Спорт
+udp://@233.81.116.63:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f7cc1aa9638a15ed0f50_250x250c.jpg" group-title="Кино 1", Sony Sci-Fi	
 #EXTGRP:Кино 1
 udp://@233.81.116.38:1234
@@ -258,7 +258,7 @@ udp://@233.81.116.41:1234
 udp://@233.81.116.87:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a1be9e19caedeaf02478_250x250c.png" group-title="Кино 1", Hollywood	
 #EXTGRP:Кино 1
-udp://@233.81.116.124:1234
+udp://@233.81.116.124:1235
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d73119934bc87fd176c8_250x250c.png" group-title="Кино 1", Cinema HD	
 #EXTGRP:Кино 1
 udp://@233.81.116.158:1234
@@ -275,7 +275,7 @@ udp://@233.81.116.177:1234
 #EXTGRP:Кино 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://mfe.svc.ott.zala.by/hls/CH_TRASH_HLS/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/6e0221fb7e1a7d941534_250x250c.jpg" group-title="Кино 1", КиноСат
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/dc74c7aecb07a1214fb2_250x250c.jpg" group-title="Кино 1", Киноман
 udp://@233.81.116.127:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/614f2556fea46407539a_250x250c.jpg" group-title="Кино 1", Синема
 udp://@233.81.116.114:1234
@@ -315,8 +315,8 @@ udp://@233.81.116.181:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wsZLtz7/71-Indijsloe-kino.png" group-title="Кино 1", Индийское кино
 #EXTGRP:Кино 1
 https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/zee.png" group-title="Кино 1", Zee TV	
-#EXTGRP:Кино 1
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/afe231d312b62bcd5da3_250x250c.jpg" group-title="Спорт", KHL Prime
+#EXTGRP:Спорт
 udp://@233.81.116.66:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/8baa83de05da4a7f8ce9_250x250c.png" group-title="Кино 1", Timeless Dizi Channel	
 #EXTGRP:Кино 1
@@ -358,10 +358,6 @@ udp://@233.81.116.123:1234
 udp://@233.81.116.84:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/66f2ec1a588d0e655b45_250x250c.jpg" group-title="Кино 2", BOLT	
 #udp://@233.81.116.57:1234
-##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/60c74083dfcc5407ca19_250x250c.png" group-title="Кино 2", Star Family
-#udp://@233.81.116.61:1234
-##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c55254f8dafac2a16b2e_250x250c.jpg" group-title="Кино 2", Star Cinema	
-#udp://@233.81.116.74:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/24dc3cb763ef2d253053_250x250c.jpg" group-title="Кино 2", FULMUADRAMA	
 #udp://@233.81.116.105:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/e5961c31b695a7642f4b_250x250c.jpg" group-title="Кино 2", НТВ Право
@@ -369,6 +365,8 @@ http://178.124.183.5/hls/CH_NTVPRAVO_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/6e55fc49891d03f23d24_250x250c.jpg" group-title="Кино 2", НТВ Сериал
 udp://@233.81.116.65:1234
 
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/e57ee487d4ef2c9a4e0f_250x250c.jpg" group-title="Детские", Сказки Зайки
+udp://@233.81.116.74:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f3a578ff59188fa9a6a0_250x250c.png" group-title="Детские", Nickelodeon	
 #udp://@233.81.116.62:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4f4ddae75798eb976025_250x250c.png" group-title="Детские", Nick Jr.	
@@ -376,7 +374,7 @@ udp://@233.81.116.65:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a41e4acb1b5290a93242_250x250c.png" group-title="Детские", Мультиландия	
 udp://@233.81.116.30:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/580a56e10201b9ab4878_250x250c.jpg" group-title="Детские", Мульт
-https://mfe.svc.ott.zala.by/hls/5MWF7XUWZI_HLS/variant.m3u8
+udp://@233.81.116.61:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/5e564eeef5b55d839c9c_250x250c.jpg" group-title="Детские", Уникум	
 udp://@233.81.116.55:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/070057239239b7ab4dee_250x250c.jpg" group-title="Детские", Смайлик HD
@@ -458,7 +456,7 @@ udp://@233.81.116.176:1234
 udp://@233.81.116.43:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/1c0e33c0a25fa7ce987d_250x250c.jpg" group-title="Научно-популярные", HD Life	
 udp://@233.81.116.72:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/21b83d2f6d86d43201ca_250x250c.jpg" group-title="Научно-популярные", DocuBox HD	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c1ab3567f1ffdaa171c7_250x250c.jpg" group-title="Спорт", Eurosport 1
 udp://@233.81.116.73:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4409afe5f5fbf53a2c72_250x250c.jpg" group-title="Научно-популярные", Нано HD	
 udp://@233.81.116.56:1234
@@ -506,19 +504,19 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://mfe.svc.ott.zala.by/hls/CH_NASHATEMA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/04554a413be8ab6d7353_250x250c.jpg" group-title="Инфо-развлекательные", 2x2	
 udp://@233.81.116.48:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/2410c5e2bf4dfede264f_250x250c.jpg" group-title="Инфо-развлекательные", Вопросы и ответы
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a9b61832e8e6a79d5a0d_250x250c.jpg" group-title="Кино 1", Кинохит
 udp://@233.81.116.102:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d4bafdb7a230d8ea2669_250x250c.jpg" group-title="Инфо-развлекательные", +ТВ	
 udp://@233.81.116.112:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/1b4f6e54362f80266637_250x250c.png" group-title="Инфо-развлекательные", 5 international	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/023d5b2fe425c8ca8dde_250x250c.jpg" group-title="Культура и Fashion", World Fashion HD
 udp://@233.81.116.13:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/1c772a491ce8925931e0_250x250c.png" group-title="Инфо-развлекательные", ПерецI	
 udp://@233.81.116.29:1234
 #EXTINF:-1 tvg-logo="http://online-red.tv/uploads/posts/2019-06/1561743732_anekdottv.jpg" group-title="Инфо-развлекательные", Анекдот ТВ
 https://mfe.svc.ott.zala.by/hls/CH_ANEKDOT_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/14a6c7259e5afe2e336b_250x250c.jpg" group-title="Инфо-развлекательные", ТНТ International	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/03d0a553a27799a5a028_250x250c.jpg" group-title="Инфо-развлекательные", ТНТ International
 udp://@233.81.116.31:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/14a6c7259e5afe2e336b_250x250c.jpg" group-title="Инфо-развлекательные", ТНТ International
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/03d0a553a27799a5a028_250x250c.jpg" group-title="Инфо-развлекательные", ТНТ International HD
 udp://@233.81.116.15:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/aa49bfe51cbbc2e82766_250x250c.png" group-title="Инфо-развлекательные", ДомашнийI	
 udp://@233.81.116.37:1234
@@ -551,8 +549,14 @@ udp://@233.81.116.21:1234
 udp://@233.81.116.69:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/d20d29b172e32ced0b5c_250x250c.png" group-title="Культура и Fashion", Luxury HD	
 udp://@233.81.116.151:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/a445881cbfffa29971ef_250x250c.png" group-title="Культура и Fashion", World Fashion HD	
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/e20ed1c10660cd99a874_250x250c.jpg" group-title="Кино 2", VIP Premiere
 udp://@233.81.116.14:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/27b2a2c876ae81e04e1a_250x250c.jpg" group-title="Кино 2", VIP Serial
+udp://@233.81.116.58:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/07ff72c0fa2df391a583_250x250c.jpg" group-title="Кино 2", VIP Comedy
+udp://@233.81.116.39:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cbe711498618991b905f_250x250c.jpg" group-title="Кино 2", VIP Megahit
+udp://@233.81.116.26:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b3ee75ff0a7f7b75482f_250x250c.jpg" group-title="Культура и Fashion", Fashion & Lifestyle HD	
 udp://@233.81.116.40:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/cc8b34bdce16be9f6aba_250x250c.png" group-title="Культура и Fashion", Fashion 4K (тест)	
@@ -575,7 +579,10 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 ##EXTINF:-1 tvg-id="FashionLifestyle.ua" tvg-logo="http://hdfashion.tv/image/og_logo.jpg" group-title="Культура и Fashion", Fashion&Lifestyle
 #http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/19bc553a148f00adf847_250x250c.jpg" group-title="Спорт", Extreme Sports
+udp://@233.81.116.239:3214
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/bba4f7168f419827b25a_250x250c.jpg" group-title="Спорт", MMA-TV HD
+udp://@233.81.116.93:1234
 ##EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" group-title="Спорт", Stadium
 #https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c74bcd743a364acddf76_250x250c.png" group-title="Спорт", Беларусь 5 HD	
@@ -583,13 +590,9 @@ udp://@233.81.116.9:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/4191c29b0a0e08c59c72_250x250c.png" group-title="Спорт", Русский экстрим	
 udp://@233.81.116.67:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/7904ac613c9e0aa49610_250x250c.png" group-title="Спорт", Setanta Sports 1 HD	
-udp://@233.81.116.180:1234
+udp://@233.81.116.98:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/2b2f8ee00eac2da439d1_250x250c.png" group-title="Спорт", Setanta Sports 2 HD	
-udp://@233.81.116.162:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/2b2f8ee00eac2da439d1_250x250c.png" group-title="Спорт", Setanta Life HD	
-udp://@233.81.116.61:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ada6a34ceca561054847_250x250c.jpg" group-title="Спорт", М-1 Глобал	
-udp://@233.81.116.61:1234
+udp://@233.81.116.105:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f480357ca5cac0270097_250x250c.jpg" group-title="Спорт", КХЛ HD	
 udp://@233.81.116.107:1234
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/79e1386b3a38b1e77a05_250x250c.jpg" group-title="Спорт", UDAR	
@@ -609,6 +612,8 @@ udp://@233.81.116.140:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/c1ab3567f1ffdaa171c7_250x250c.jpg" group-title="Спорт", Eurosport 1 HD
 udp://@233.81.116.210:1234
 
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/b246955705ccc1003351_250x250c.jpg" group-title="По интересам", Психология 21
+udp://@233.81.116.236:3214
 ##EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/6825b5b2d0459d99b860_250x250c.jpg" group-title="По интересам", Дома ТВ	
 #udp://@233.81.116.20:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/990b8970290b6cc35da5_250x250c.png" group-title="По интересам", Усадьба	
